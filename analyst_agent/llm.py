@@ -109,12 +109,19 @@ class _Cache:
 
 
 def _retry_after(err: Exception) -> float:
-    """Seconds the API asks us to wait. Daily-quota errors get a long block so we move on."""
+    """Seconds the API asks us to wait: "retryDelay: 41s" (per-minute limit) or "retry in 6h38m13s" (daily
+    limit, which resets at midnight Pacific time). Daily limits block that key/model pair for hours."""
     msg = str(err)
-    if re.search(r"per ?day|PerDay|daily", msg, re.I):
+    m = re.search(r"retry in\s+(?:(\d+)h)?(?:(\d+)m)?(?:(\d+(?:\.\d+)?)s)?", msg, re.I)
+    if m and any(m.groups()):
+        h, mi, se = (float(g) if g else 0.0 for g in m.groups())
+        return h * 3600 + mi * 60 + se + 1
+    m = re.search(r"retryDelay\W+(\d+(?:\.\d+)?)s", msg, re.I)
+    if m:
+        return float(m.group(1)) + 1
+    if re.search(r"PerDay|per day|daily", msg, re.I):
         return 3600.0
-    m = re.search(r"retry(?:Delay)?\W+(\d+(?:\.\d+)?)s", msg, re.I)
-    return float(m.group(1)) + 1 if m else 30.0
+    return 30.0
 
 
 def _thinking(model: str, level: str):

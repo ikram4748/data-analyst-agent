@@ -181,8 +181,9 @@ class Gemini:
                         return LLMResult(text, label, False, time.monotonic() - t0)
                     except Exception as e:  # noqa: BLE001 - any failure blocks this pair for a while
                         last = e
-                        is_quota = "429" in str(e) or "RESOURCE_EXHAUSTED" in str(e)
-                        self.limiter.block(label, _retry_after(e) if is_quota else 5)
+                        quota = "429" in str(e) or "RESOURCE_EXHAUSTED" in str(e)
+                        gone = "404" in str(e) or "no longer available" in str(e)    # model retired for this key
+                        self.limiter.block(label, _retry_after(e) if quota else 86_400 if gone else 5)
                         log.warning("%s failed (blocked %.0fs): %s", label, self.limiter.blocked(label), str(e)[:1500])
                 # this model is usable but its keys are busy right now: wait for it rather than fall back
                 nap = min(self.limiter.ready_in(label) for label, _ in pairs)

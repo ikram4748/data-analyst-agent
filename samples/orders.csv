@@ -1,0 +1,2001 @@
+order_id,customer_id,order_date,category,amount_pkr,payment_method,status
+11210,130,2025-03-02,Clothing,2610,Cash on Delivery,Delivered
+11477,146,2025-03-02,Clothing,4139,Card,Delivered
+10511,10,2025-03-02,Clothing,1523,Easypaisa,Cancelled
+10629,117,2025-03-02,Clothing,8302,Card,Returned
+11810,57,2025-03-02,Clothing,2826,Easypaisa,Delivered
+11820,196,2025-03-02,Groceries,2923,Card,Delivered
+11570,72,2025-03-02,Groceries,3782,JazzCash,Delivered
+11594,153,2025-03-03,Groceries,3383,JazzCash,Delivered
+10958,109,2025-03-03,Clothing,5363,Cash on Delivery,Delivered
+11639,172,2025-03-03,Groceries,2797,Cash on Delivery,Returned
+11245,36,2025-03-04,Clothing,4944,Card,Delivered
+10032,224,2025-03-04,Clothing,5543,Easypaisa,Delivered
+11447,298,2025-03-04,Groceries,636,Cash on Delivery,Cancelled
+11893,292,2025-03-05,Groceries,1465,Cash on Delivery,Delivered
+10562,18,2025-03-05,Electronics,54467,Easypaisa,Delivered
+10934,132,2025-03-06,Groceries,324,Cash on Delivery,Delivered
+11547,44,2025-03-06,Clothing,5513,Easypaisa,Delivered
+10655,251,2025-03-06,Clothing,2821,Easypaisa,Delivered
+11621,133,2025-03-06,Groceries,2958,Card,Delivered
+11965,107,2025-03-06,Home,17856,Card,Delivered
+11011,101,2025-03-07,Electronics,72917,Easypaisa,Delivered
+10883,11,2025-03-07,Clothing,2493,Cash on Delivery,Delivered
+11540,231,2025-03-08,Books,2354,JazzCash,Delivered
+11302,2,2025-03-08,Books,1300,Cash on Delivery,Delivered
+10170,268,2025-03-08,Groceries,3058,Easypaisa,Returned
+11206,164,2025-03-08,Clothing,1940,JazzCash,Delivered
+11917,135,2025-03-09,Electronics,31497,Card,Delivered
+10982,124,2025-03-09,Electronics,69245,Card,Delivered
+10622,71,2025-03-09,Home,26396,Cash on Delivery,Delivered
+10417,177,2025-03-09,Electronics,20645,JazzCash,Delivered
+11408,78,2025-03-10,Electronics,18214,Card,Delivered
+10944,249,2025-03-10,Groceries,2307,Cash on Delivery,Delivered
+10886,23,2025-03-10,Groceries,3865,Card,Delivered
+11294,93,2025-03-10,Books,461,Cash on Delivery,Delivered
+11873,150,2025-03-10,Electronics,22458,JazzCash,Delivered
+11560,169,2025-03-10,Electronics,34341,Card,Delivered
+11179,212,2025-03-10,Clothing,2360,Cash on Delivery,Delivered
+11755,168,2025-03-11,Clothing,6085,Cash on Delivery,Delivered
+10096,86,2025-03-11,Clothing,8596,Cash on Delivery,Delivered
+10004,250,2025-03-11,Groceries,2312,Cash on Delivery,Delivered
+10647,284,2025-03-11,Electronics,39830,Cash on Delivery,Delivered
+11967,298,2025-03-11,Clothing,1640,JazzCash,Delivered
+10019,97,2025-03-11,Clothing,4847,Cash on Delivery,Delivered
+11492,121,2025-03-12,Home,22188,Cash on Delivery,Delivered
+11238,208,2025-03-12,Clothing,2033,Card,Cancelled
+11906,256,2025-03-12,Clothing,8227,Card,Delivered
+10985,65,2025-03-13,Groceries,625,Cash on Delivery,Delivered
+11885,216,2025-03-13,Home,5819,Cash on Delivery,Delivered
+10932,27,2025-03-14,Clothing,5574,Card,Delivered
+10447,184,2025-03-15,Groceries,3277,Cash on Delivery,Delivered
+11809,256,2025-03-15,Electronics,28176,Cash on Delivery,Delivered
+10178,212,2025-03-15,Electronics,71561,Cash on Delivery,Delivered
+10814,62,2025-03-16,Groceries,569,Cash on Delivery,Delivered
+11243,175,2025-03-16,Clothing,4874,Easypaisa,Delivered
+11684,232,2025-03-16,Home,22519,Cash on Delivery,Delivered
+11029,231,2025-03-16,Books,804,JazzCash,Delivered
+10379,255,2025-03-16,Clothing,2191,JazzCash,Delivered
+10162,283,2025-03-16,Groceries,612,Cash on Delivery,Delivered
+10424,26,2025-03-17,Books,2870,JazzCash,Delivered
+11320,139,2025-03-17,Home,22198,Cash on Delivery,Delivered
+10111,236,2025-03-17,Groceries,3738,Easypaisa,Returned
+11950,1,2025-03-17,Home,7058,Cash on Delivery,Returned
+11512,69,2025-03-18,Clothing,6750,Easypaisa,Delivered
+10829,291,2025-03-18,Groceries,3097,Card,Cancelled
+11601,281,2025-03-19,Home,23500,Cash on Delivery,Delivered
+10858,93,2025-03-19,Home,10124,JazzCash,Delivered
+10537,180,2025-03-19,Clothing,6821,Card,Delivered
+11937,267,2025-03-20,Clothing,1809,Card,Delivered
+10263,245,2025-03-20,Groceries,1290,JazzCash,Delivered
+11544,13,2025-03-20,Groceries,817,Easypaisa,Returned
+10059,28,2025-03-20,Clothing,2582,JazzCash,Delivered
+11199,36,2025-03-20,Clothing,4762,JazzCash,Delivered
+11954,264,2025-03-20,Books,2958,Easypaisa,Delivered
+11821,26,2025-03-21,Books,851,Cash on Delivery,Delivered
+11908,82,2025-03-21,Home,11619,Card,Delivered
+11785,60,2025-03-21,Clothing,1979,Card,Delivered
+10043,150,2025-03-21,Home,8974,Easypaisa,Delivered
+10684,69,2025-03-22,Groceries,1393,JazzCash,Delivered
+10854,12,2025-03-22,Groceries,3002,Cash on Delivery,Delivered
+10617,141,2025-03-22,Home,19190,JazzCash,Returned
+10035,229,2025-03-22,Clothing,2013,Cash on Delivery,Delivered
+11751,149,2025-03-23,Groceries,606,Easypaisa,Delivered
+10039,248,2025-03-23,Books,2598,Cash on Delivery,Delivered
+10895,192,2025-03-24,Electronics,49515,Cash on Delivery,Delivered
+11739,171,2025-03-24,Groceries,2746,Cash on Delivery,Delivered
+10554,253,2025-03-25,Groceries,1427,JazzCash,Returned
+10343,118,2025-03-25,Books,2234,Cash on Delivery,Delivered
+11517,147,2025-03-25,Clothing,8416,Cash on Delivery,Returned
+10811,261,2025-03-25,Groceries,3385,JazzCash,Delivered
+11119,295,2025-03-26,Groceries,1067,Card,Returned
+11178,236,2025-03-26,Clothing,7015,Easypaisa,Delivered
+10423,136,2025-03-26,Electronics,31242,JazzCash,Delivered
+11898,158,2025-03-27,Groceries,677,Cash on Delivery,Delivered
+11430,83,2025-03-27,Electronics,15466,Easypaisa,Delivered
+10810,183,2025-03-27,Books,1671,JazzCash,Delivered
+11580,229,2025-03-27,Clothing,2973,Easypaisa,Delivered
+11356,152,2025-03-27,Clothing,6659,Card,Delivered
+11942,194,2025-03-28,Groceries,2744,Easypaisa,Delivered
+11886,267,2025-03-28,Groceries,3688,Card,Returned
+11466,17,2025-03-28,Home,2926,Cash on Delivery,Returned
+11262,148,2025-03-28,Groceries,971,Cash on Delivery,Delivered
+11303,68,2025-03-28,Books,2291,Cash on Delivery,Cancelled
+11613,289,2025-03-28,Electronics,58013,Card,Delivered
+10575,234,2025-03-28,Books,2700,JazzCash,Delivered
+11485,87,2025-03-28,Groceries,551,Card,Delivered
+11282,226,2025-03-29,Books,802,JazzCash,Delivered
+10169,120,2025-03-29,Home,21839,Card,Delivered
+11085,78,2025-03-30,Clothing,5774,Cash on Delivery,Delivered
+11362,68,2025-03-30,Groceries,2621,Easypaisa,Delivered
+10930,16,2025-03-30,Groceries,2293,JazzCash,Delivered
+10975,162,2025-03-30,Groceries,834,Cash on Delivery,Delivered
+11316,131,2025-03-31,Home,16705,Cash on Delivery,Delivered
+10371,182,2025-03-31,Electronics,59039,Cash on Delivery,Delivered
+11555,70,2025-03-31,Groceries,1309,Card,Delivered
+11509,110,2025-03-31,Home,27540,Cash on Delivery,Delivered
+10922,214,2025-04-01,Groceries,3857,Easypaisa,Delivered
+10999,279,2025-04-01,Home,17583,Card,Delivered
+11307,64,2025-04-01,Groceries,1900,Card,Cancelled
+10753,1,2025-04-01,Clothing,8228,Cash on Delivery,Cancelled
+10034,209,2025-04-02,Books,2600,JazzCash,Cancelled
+10329,35,2025-04-02,Books,2845,JazzCash,Delivered
+10564,237,2025-04-03,Clothing,7029,Card,Delivered
+11133,228,2025-04-04,Groceries,1822,Card,Delivered
+10682,21,2025-04-04,Clothing,1661,JazzCash,Cancelled
+10851,143,2025-04-05,Clothing,1970,Easypaisa,Delivered
+11828,132,2025-04-05,Electronics,30654,Cash on Delivery,Delivered
+10929,126,2025-04-05,Books,995,Cash on Delivery,Cancelled
+11663,81,2025-04-05,Home,20968,JazzCash,Delivered
+11600,88,2025-04-05,Electronics,61470,JazzCash,Cancelled
+11422,273,2025-04-06,Groceries,1776,Easypaisa,Returned
+11624,143,2025-04-06,Clothing,3182,Cash on Delivery,Delivered
+10924,120,2025-04-06,Clothing,3425,Card,Delivered
+10288,198,2025-04-06,Groceries,436,Cash on Delivery,Delivered
+11922,1,2025-04-06,Groceries,1183,Cash on Delivery,Delivered
+11233,254,2025-04-06,Groceries,2141,Easypaisa,Delivered
+11703,188,2025-04-07,Clothing,8371,Card,Delivered
+10311,225,2025-04-07,Clothing,7097,Card,Delivered
+11293,229,2025-04-07,Clothing,8830,Cash on Delivery,Returned
+10516,223,2025-04-07,Groceries,1815,Cash on Delivery,Delivered
+10862,16,2025-04-07,Groceries,1632,Cash on Delivery,Delivered
+10335,289,2025-04-07,Groceries,2684,JazzCash,Delivered
+11327,9,2025-04-08,Books,614,JazzCash,Delivered
+10264,170,2025-04-08,Groceries,2703,Cash on Delivery,Delivered
+11588,261,2025-04-08,Clothing,5265,Cash on Delivery,Delivered
+11806,11,2025-04-09,Books,1624,Cash on Delivery,Delivered
+11292,274,2025-04-09,Groceries,3692,Cash on Delivery,Delivered
+11605,126,2025-04-09,Groceries,1404,Cash on Delivery,Cancelled
+10831,124,2025-04-09,Clothing,6962,JazzCash,Delivered
+10175,45,2025-04-10,Groceries,395,JazzCash,Delivered
+11490,114,2025-04-10,Groceries,989,JazzCash,Delivered
+10532,83,2025-04-11,Groceries,1772,Easypaisa,Delivered
+10459,151,2025-04-11,Electronics,21868,Easypaisa,Delivered
+11151,180,2025-04-11,Home,4956,Cash on Delivery,Delivered
+10890,152,2025-04-11,Groceries,3581,Cash on Delivery,Delivered
+11388,132,2025-04-11,Clothing,3247,Easypaisa,Delivered
+10804,136,2025-04-12,Electronics,13734,Cash on Delivery,Delivered
+11141,228,2025-04-13,Clothing,7414,Card,Returned
+11753,205,2025-04-13,Clothing,7093,JazzCash,Delivered
+10828,115,2025-04-13,Clothing,6621,Card,Delivered
+10388,66,2025-04-14,Home,13716,Cash on Delivery,Delivered
+11852,256,2025-04-14,Electronics,60576,Easypaisa,Returned
+11093,166,2025-04-14,Clothing,3657,Cash on Delivery,Returned
+11546,170,2025-04-15,Clothing,2815,Cash on Delivery,Delivered
+11065,278,2025-04-15,Clothing,2052,JazzCash,Delivered
+10236,186,2025-04-15,Clothing,7279,Cash on Delivery,Delivered
+11807,167,2025-04-15,Electronics,28669,Easypaisa,Delivered
+11778,53,2025-04-15,Groceries,2562,JazzCash,Delivered
+11960,116,2025-04-15,Home,16347,Cash on Delivery,Delivered
+11819,186,2025-04-15,Groceries,1607,Cash on Delivery,Delivered
+10911,122,2025-04-16,Clothing,7295,Easypaisa,Delivered
+11979,160,2025-04-16,Clothing,3258,Easypaisa,Delivered
+11014,298,2025-04-16,Electronics,86523,Easypaisa,Delivered
+10269,140,2025-04-16,Groceries,551,Cash on Delivery,Delivered
+11952,280,2025-04-16,Clothing,5982,Cash on Delivery,Delivered
+10398,143,2025-04-17,Electronics,83859,Cash on Delivery,Delivered
+10692,7,2025-04-17,Home,19771,Card,Delivered
+10490,93,2025-04-17,Groceries,3159,Card,Delivered
+11313,91,2025-04-18,Electronics,81081,Cash on Delivery,Returned
+10202,156,2025-04-18,Clothing,2777,Card,Delivered
+10586,65,2025-04-18,Books,2677,Cash on Delivery,Delivered
+10113,75,2025-04-18,Groceries,548,Cash on Delivery,Delivered
+11008,160,2025-04-19,Groceries,3940,Easypaisa,Delivered
+11804,286,2025-04-19,Home,27479,Card,Returned
+11792,110,2025-04-19,Clothing,8353,Card,Cancelled
+11982,119,2025-04-20,Home,17826,Card,Delivered
+11044,268,2025-04-20,Clothing,4253,Cash on Delivery,Delivered
+11957,75,2025-04-20,Groceries,3140,Cash on Delivery,Delivered
+10894,251,2025-04-20,Groceries,3795,Cash on Delivery,Delivered
+10576,124,2025-04-20,Clothing,8036,JazzCash,Cancelled
+11746,94,2025-04-20,Electronics,43493,JazzCash,Delivered
+11835,66,2025-04-20,Groceries,3798,Card,Cancelled
+11985,239,2025-04-21,Groceries,1658,Cash on Delivery,Cancelled
+10282,148,2025-04-21,Groceries,477,Cash on Delivery,Delivered
+10088,129,2025-04-22,Clothing,2811,Cash on Delivery,Delivered
+11519,166,2025-04-22,Groceries,489,Cash on Delivery,Delivered
+11853,24,2025-04-22,Groceries,2613,Cash on Delivery,Delivered
+10530,134,2025-04-22,Groceries,2965,Cash on Delivery,Delivered
+10739,168,2025-04-22,Groceries,3858,Easypaisa,Delivered
+10144,214,2025-04-23,Groceries,1210,JazzCash,Cancelled
+11399,212,2025-04-24,Groceries,2961,Cash on Delivery,Delivered
+11491,62,2025-04-24,Clothing,5511,Cash on Delivery,Cancelled
+10870,244,2025-04-24,Groceries,3351,Cash on Delivery,Delivered
+10730,31,2025-04-25,Electronics,42914,Cash on Delivery,Delivered
+11187,281,2025-04-25,Groceries,1834,Cash on Delivery,Returned
+11353,258,2025-04-26,Groceries,3109,Easypaisa,Delivered
+11463,250,2025-04-26,Groceries,2385,Card,Delivered
+11695,111,2025-04-26,Groceries,1910,Cash on Delivery,Delivered
+10659,206,2025-04-26,Home,11393,JazzCash,Delivered
+10566,215,2025-04-27,Clothing,7136,Cash on Delivery,Cancelled
+10980,167,2025-04-28,Clothing,7534,Cash on Delivery,Delivered
+10120,289,2025-04-28,Clothing,5608,Easypaisa,Delivered
+11058,56,2025-04-28,Books,2285,Cash on Delivery,Delivered
+11038,245,2025-04-28,Groceries,1474,Easypaisa,Delivered
+10401,53,2025-04-30,Books,2044,Cash on Delivery,Delivered
+10468,264,2025-04-30,Books,578,Card,Cancelled
+10078,182,2025-05-01,Books,2199,Cash on Delivery,Delivered
+10988,5,2025-05-01,Clothing,2586,Card,Delivered
+11257,182,2025-05-01,Home,21416,Easypaisa,Delivered
+11565,250,2025-05-01,Electronics,78680,Cash on Delivery,Delivered
+11229,29,2025-05-01,Electronics,78233,JazzCash,Delivered
+11566,108,2025-05-02,Books,1927,Card,Delivered
+10349,242,2025-05-02,Groceries,1827,Easypaisa,Delivered
+10795,30,2025-05-02,Groceries,2964,Cash on Delivery,Delivered
+10514,64,2025-05-03,Clothing,6565,JazzCash,Delivered
+10177,162,2025-05-03,Home,8632,Easypaisa,Delivered
+11142,52,2025-05-03,Groceries,3460,Cash on Delivery,Delivered
+11288,67,2025-05-03,Books,2638,Cash on Delivery,Returned
+10101,207,2025-05-03,Clothing,4359,Cash on Delivery,Delivered
+11456,74,2025-05-04,Electronics,68424,JazzCash,Delivered
+11657,99,2025-05-04,Groceries,1608,Card,Delivered
+10724,81,2025-05-04,Books,2193,Easypaisa,Delivered
+10903,255,2025-05-04,Electronics,38132,Cash on Delivery,Returned
+10583,272,2025-05-04,Groceries,2271,Easypaisa,Delivered
+11479,60,2025-05-04,Home,20759,JazzCash,Delivered
+11760,101,2025-05-05,Electronics,52311,Cash on Delivery,Returned
+10881,273,2025-05-05,Groceries,1935,Cash on Delivery,Delivered
+10382,148,2025-05-05,Clothing,7015,JazzCash,Returned
+11793,36,2025-05-05,Groceries,2113,JazzCash,Delivered
+10189,232,2025-05-06,Groceries,3177,Cash on Delivery,Delivered
+11222,86,2025-05-06,Clothing,6896,Card,Delivered
+10197,266,2025-05-06,Groceries,385,Cash on Delivery,Delivered
+10498,197,2025-05-07,Home,23212,Cash on Delivery,Delivered
+11822,204,2025-05-07,Electronics,64307,Card,Delivered
+11972,207,2025-05-07,Home,8109,JazzCash,Delivered
+10484,34,2025-05-07,Groceries,3396,Card,Delivered
+10531,196,2025-05-08,Clothing,6094,Cash on Delivery,Delivered
+11069,193,2025-05-08,Clothing,1890,Cash on Delivery,Delivered
+10387,217,2025-05-08,Groceries,3394,Easypaisa,Delivered
+10299,204,2025-05-08,Home,17838,Cash on Delivery,Delivered
+10818,22,2025-05-09,Electronics,82563,Cash on Delivery,Delivered
+11392,263,2025-05-09,Groceries,3084,Card,Delivered
+11679,124,2025-05-09,Groceries,2204,Cash on Delivery,Delivered
+10207,279,2025-05-09,Clothing,7860,JazzCash,Delivered
+10969,241,2025-05-09,Electronics,46333,JazzCash,Delivered
+11882,140,2025-05-09,Books,1426,JazzCash,Delivered
+11878,8,2025-05-11,Electronics,74742,Cash on Delivery,Delivered
+10735,199,2025-05-11,Books,449,JazzCash,Delivered
+11336,109,2025-05-11,Clothing,2775,Card,Delivered
+11658,91,2025-05-11,Books,1181,JazzCash,Delivered
+11764,232,2025-05-11,Home,18672,Cash on Delivery,Delivered
+11237,134,2025-05-11,Groceries,3130,Cash on Delivery,Delivered
+10274,259,2025-05-12,Electronics,27657,JazzCash,Delivered
+10072,194,2025-05-12,Groceries,1272,Cash on Delivery,Delivered
+11956,280,2025-05-12,Clothing,8535,Easypaisa,Delivered
+10260,154,2025-05-12,Groceries,3838,Cash on Delivery,Delivered
+10174,189,2025-05-12,Clothing,7627,Cash on Delivery,Delivered
+10499,283,2025-05-12,Groceries,1916,JazzCash,Returned
+11599,234,2025-05-12,Home,25436,Cash on Delivery,Delivered
+11563,263,2025-05-13,Groceries,3674,Cash on Delivery,Delivered
+10536,198,2025-05-13,Groceries,2113,JazzCash,Delivered
+10132,74,2025-05-14,Home,25122,JazzCash,Delivered
+11844,189,2025-05-14,Books,1449,Cash on Delivery,Delivered
+11676,60,2025-05-14,Electronics,24602,Cash on Delivery,Delivered
+11920,291,2025-05-15,Home,19237,Cash on Delivery,Cancelled
+10406,9,2025-05-15,Clothing,1565,Card,Delivered
+11618,133,2025-05-15,Groceries,3004,Card,Delivered
+11503,45,2025-05-16,Home,2291,Card,Delivered
+10571,254,2025-05-16,Groceries,3711,Card,Delivered
+11168,50,2025-05-16,Groceries,1187,Easypaisa,Delivered
+10031,46,2025-05-16,Clothing,2910,Cash on Delivery,Delivered
+11730,266,2025-05-17,Books,644,JazzCash,Delivered
+10410,143,2025-05-17,Electronics,48648,Card,Delivered
+10241,151,2025-05-17,Clothing,3482,JazzCash,Delivered
+11451,187,2025-05-18,Clothing,2395,Cash on Delivery,Delivered
+10021,174,2025-05-18,Electronics,12080,Cash on Delivery,Delivered
+11846,220,2025-05-18,Clothing,5868,Easypaisa,Delivered
+10056,120,2025-05-19,Groceries,2937,Cash on Delivery,Delivered
+10203,46,2025-05-19,Groceries,1594,Card,Delivered
+11274,106,2025-05-19,Electronics,83375,Easypaisa,Delivered
+10016,265,2025-05-19,Clothing,3484,Cash on Delivery,Delivered
+10938,62,2025-05-19,Electronics,13313,Cash on Delivery,Delivered
+11995,300,2025-05-19,Groceries,1980,Easypaisa,Delivered
+10128,179,2025-05-19,Groceries,1798,Cash on Delivery,Delivered
+11322,163,2025-05-19,Home,9589,Cash on Delivery,Delivered
+11172,27,2025-05-19,Home,12396,Cash on Delivery,Delivered
+10139,150,2025-05-20,Groceries,2648,Card,Delivered
+11643,233,2025-05-20,Groceries,2748,Card,Delivered
+10475,234,2025-05-20,Clothing,8240,Card,Delivered
+10348,71,2025-05-20,Groceries,1119,Cash on Delivery,Returned
+11111,50,2025-05-20,Home,10112,Card,Delivered
+11341,12,2025-05-20,Clothing,4374,Card,Returned
+11186,102,2025-05-21,Electronics,47399,Card,Delivered
+11027,32,2025-05-21,Groceries,973,JazzCash,Delivered
+11901,192,2025-05-21,Books,2925,Card,Delivered
+11043,152,2025-05-21,Clothing,5798,Cash on Delivery,Delivered
+11287,214,2025-05-21,Clothing,6124,Cash on Delivery,Delivered
+11520,247,2025-05-22,Groceries,486,JazzCash,Delivered
+11433,47,2025-05-22,Electronics,43999,JazzCash,Returned
+10477,295,2025-05-22,Groceries,522,Easypaisa,Delivered
+10790,175,2025-05-23,Groceries,1127,Cash on Delivery,Delivered
+10227,116,2025-05-23,Electronics,23952,Cash on Delivery,Delivered
+11706,40,2025-05-23,Books,1212,Easypaisa,Returned
+10053,103,2025-05-24,Home,19534,Card,Delivered
+10802,32,2025-05-24,Electronics,13374,Card,Delivered
+10391,73,2025-05-24,Electronics,27223,Cash on Delivery,Cancelled
+10507,119,2025-05-25,Groceries,3696,JazzCash,Delivered
+10719,35,2025-05-25,Groceries,3648,JazzCash,Delivered
+11386,193,2025-05-25,Electronics,68151,Easypaisa,Delivered
+11126,22,2025-05-25,Electronics,51979,JazzCash,Delivered
+10066,20,2025-05-26,Clothing,1995,Card,Delivered
+11204,203,2025-05-26,Books,2348,JazzCash,Delivered
+11267,110,2025-05-26,Groceries,2587,Cash on Delivery,Delivered
+10866,59,2025-05-26,Groceries,2123,Cash on Delivery,Delivered
+11723,112,2025-05-26,Home,18979,Easypaisa,Delivered
+10742,102,2025-05-27,Groceries,1202,Card,Returned
+10275,48,2025-05-27,Clothing,6342,Cash on Delivery,Delivered
+11092,4,2025-05-28,Electronics,30796,Cash on Delivery,Returned
+11124,175,2025-05-28,Home,13405,JazzCash,Delivered
+11860,238,2025-05-28,Groceries,3473,JazzCash,Delivered
+10380,284,2025-05-28,Clothing,2040,Card,Returned
+11673,173,2025-05-28,Groceries,3496,JazzCash,Delivered
+10437,131,2025-05-29,Electronics,35938,Cash on Delivery,Delivered
+11074,99,2025-05-29,Groceries,394,JazzCash,Delivered
+10525,24,2025-05-29,Groceries,668,Cash on Delivery,Delivered
+10217,18,2025-05-29,Groceries,3479,Cash on Delivery,Delivered
+10331,20,2025-05-30,Groceries,3225,Card,Delivered
+10736,214,2025-05-30,Home,13222,Card,Delivered
+10272,246,2025-05-30,Home,9085,Card,Delivered
+11086,212,2025-06-01,Books,1994,Card,Delivered
+10618,260,2025-06-01,Electronics,78570,Cash on Delivery,Returned
+11771,92,2025-06-01,Home,20155,JazzCash,Delivered
+10679,263,2025-06-01,Groceries,1090,Easypaisa,Returned
+11125,247,2025-06-01,Electronics,55876,Cash on Delivery,Delivered
+10369,123,2025-06-01,Clothing,7868,Cash on Delivery,Delivered
+10158,34,2025-06-02,Clothing,4215,Cash on Delivery,Delivered
+11224,298,2025-06-02,Books,1446,Card,Delivered
+10695,203,2025-06-02,Electronics,69328,Easypaisa,Delivered
+11332,83,2025-06-02,Clothing,5263,Cash on Delivery,Returned
+10037,212,2025-06-02,Clothing,5737,Cash on Delivery,Delivered
+11700,93,2025-06-03,Books,1613,JazzCash,Delivered
+10966,231,2025-06-03,Groceries,1554,JazzCash,Delivered
+11650,272,2025-06-04,Electronics,18056,Cash on Delivery,Delivered
+10834,16,2025-06-04,Clothing,2774,Easypaisa,Delivered
+10685,109,2025-06-04,Books,829,Card,Delivered
+10193,71,2025-06-05,Groceries,3042,Easypaisa,Delivered
+10136,202,2025-06-05,Home,25997,Easypaisa,Delivered
+11335,280,2025-06-06,Books,1086,Easypaisa,Delivered
+10347,282,2025-06-06,Groceries,3903,Card,Delivered
+10237,5,2025-06-06,Home,14019,Cash on Delivery,Delivered
+10640,253,2025-06-06,Clothing,7946,Easypaisa,Delivered
+11925,283,2025-06-06,Clothing,6302,Cash on Delivery,Delivered
+10267,171,2025-06-06,Clothing,5415,Cash on Delivery,Delivered
+10567,253,2025-06-07,Groceries,2607,Easypaisa,Delivered
+10228,61,2025-06-07,Groceries,1710,Card,Delivered
+10312,244,2025-06-07,Groceries,3165,Card,Delivered
+10747,73,2025-06-08,Clothing,3058,JazzCash,Delivered
+11677,1,2025-06-08,Electronics,25484,JazzCash,Cancelled
+11694,89,2025-06-08,Clothing,3235,Cash on Delivery,Delivered
+11537,109,2025-06-08,Clothing,5948,Card,Delivered
+11531,136,2025-06-09,Groceries,1836,Easypaisa,Delivered
+11813,282,2025-06-10,Clothing,6873,Easypaisa,Returned
+10022,159,2025-06-10,Clothing,2913,Card,Delivered
+10666,174,2025-06-10,Home,14629,Card,Delivered
+11346,105,2025-06-10,Home,11867,Cash on Delivery,Delivered
+11478,113,2025-06-11,Groceries,3488,JazzCash,Delivered
+11991,135,2025-06-11,Home,22328,Easypaisa,Delivered
+10372,6,2025-06-12,Electronics,84131,JazzCash,Delivered
+10693,78,2025-06-12,Groceries,3269,Cash on Delivery,Returned
+10720,119,2025-06-12,Groceries,1035,Cash on Delivery,Delivered
+11930,61,2025-06-12,Home,26151,Easypaisa,Delivered
+10049,210,2025-06-12,Groceries,441,Cash on Delivery,Delivered
+10887,177,2025-06-12,Groceries,2639,Card,Delivered
+11693,82,2025-06-13,Groceries,1928,Cash on Delivery,Delivered
+11414,116,2025-06-13,Electronics,71354,Easypaisa,Delivered
+10328,56,2025-06-14,Groceries,1126,JazzCash,Delivered
+11826,262,2025-06-14,Groceries,3631,Card,Delivered
+10393,205,2025-06-14,Groceries,1317,Card,Delivered
+10830,241,2025-06-14,Clothing,2210,Cash on Delivery,Delivered
+11205,155,2025-06-15,Groceries,775,JazzCash,Delivered
+11704,183,2025-06-15,Home,4842,Cash on Delivery,Delivered
+10740,286,2025-06-15,Books,2555,Cash on Delivery,Delivered
+11349,259,2025-06-15,Home,12236,JazzCash,Delivered
+11507,150,2025-06-15,Home,9637,JazzCash,Delivered
+11579,276,2025-06-16,Groceries,2244,Cash on Delivery,Delivered
+10123,198,2025-06-16,Books,1908,Card,Delivered
+11068,275,2025-06-17,Home,11504,Cash on Delivery,Delivered
+10715,99,2025-06-17,Electronics,35028,Cash on Delivery,Delivered
+10757,116,2025-06-18,Clothing,8419,Easypaisa,Delivered
+11869,75,2025-06-18,Home,18552,Easypaisa,Delivered
+10604,23,2025-06-18,Clothing,7952,Card,Delivered
+11923,51,2025-06-18,Clothing,8641,JazzCash,Delivered
+10869,183,2025-06-18,Groceries,3822,Cash on Delivery,Returned
+10463,139,2025-06-19,Home,2475,Cash on Delivery,Delivered
+11107,122,2025-06-19,Home,29568,Card,Delivered
+11437,16,2025-06-19,Clothing,5555,Cash on Delivery,Delivered
+10443,110,2025-06-19,Clothing,3137,Easypaisa,Cancelled
+11241,276,2025-06-19,Electronics,76092,JazzCash,Delivered
+11495,69,2025-06-19,Books,2151,Cash on Delivery,Delivered
+11888,113,2025-06-20,Groceries,1070,Easypaisa,Returned
+11034,215,2025-06-21,Electronics,25396,Cash on Delivery,Delivered
+10373,62,2025-06-21,Home,14127,Cash on Delivery,Delivered
+11504,196,2025-06-22,Groceries,3500,Card,Delivered
+10280,270,2025-06-22,Clothing,1703,Easypaisa,Delivered
+10540,261,2025-06-22,Clothing,7031,Cash on Delivery,Delivered
+10686,183,2025-06-22,Electronics,56975,Cash on Delivery,Delivered
+10892,269,2025-06-23,Groceries,1580,JazzCash,Delivered
+10428,265,2025-06-23,Electronics,38412,Cash on Delivery,Delivered
+10974,13,2025-06-23,Groceries,1063,Card,Delivered
+10314,229,2025-06-23,Electronics,22530,JazzCash,Returned
+10116,55,2025-06-23,Home,29140,Easypaisa,Delivered
+11487,94,2025-06-23,Home,15149,Cash on Delivery,Delivered
+11986,273,2025-06-23,Electronics,22878,Card,Delivered
+10084,147,2025-06-24,Home,20929,JazzCash,Delivered
+11202,298,2025-06-24,Groceries,366,Cash on Delivery,Returned
+10836,66,2025-06-24,Home,4859,Easypaisa,Delivered
+10645,273,2025-06-25,Clothing,7283,Cash on Delivery,Delivered
+11371,150,2025-06-25,Home,13269,Cash on Delivery,Delivered
+11166,83,2025-06-25,Clothing,8301,Cash on Delivery,Delivered
+11452,68,2025-06-25,Home,13864,JazzCash,Delivered
+11096,189,2025-06-25,Clothing,8764,Easypaisa,Delivered
+11470,36,2025-06-25,Home,12818,JazzCash,Delivered
+10627,97,2025-06-25,Clothing,5142,JazzCash,Delivered
+10606,205,2025-06-26,Clothing,6785,Cash on Delivery,Cancelled
+11781,218,2025-06-26,Clothing,5143,Cash on Delivery,Delivered
+10694,187,2025-06-26,Clothing,4339,Card,Delivered
+10421,260,2025-06-26,Clothing,4734,Cash on Delivery,Delivered
+10047,94,2025-06-27,Home,3911,JazzCash,Cancelled
+11002,204,2025-06-27,Clothing,7397,Easypaisa,Cancelled
+11454,62,2025-06-28,Groceries,2744,Easypaisa,Delivered
+11548,127,2025-06-28,Home,20736,Cash on Delivery,Returned
+11740,29,2025-06-29,Home,7786,Easypaisa,Delivered
+11461,220,2025-06-30,Groceries,3771,Cash on Delivery,Delivered
+10794,279,2025-06-30,Electronics,73190,Cash on Delivery,Delivered
+11606,254,2025-07-01,Groceries,2099,JazzCash,Delivered
+11270,128,2025-07-01,Clothing,5068,JazzCash,Delivered
+11620,98,2025-07-01,Clothing,6434,JazzCash,Delivered
+11851,263,2025-07-01,Books,1723,Cash on Delivery,Cancelled
+10140,215,2025-07-01,Groceries,1531,Easypaisa,Delivered
+11317,42,2025-07-02,Groceries,1171,JazzCash,Delivered
+11220,183,2025-07-02,Clothing,7879,Cash on Delivery,Returned
+11048,144,2025-07-02,Clothing,7330,Easypaisa,Delivered
+10054,183,2025-07-03,Groceries,1847,Cash on Delivery,Returned
+10126,246,2025-07-03,Electronics,39058,Card,Delivered
+11989,14,2025-07-03,Groceries,797,JazzCash,Delivered
+10712,177,2025-07-03,Groceries,3438,Card,Cancelled
+10317,110,2025-07-03,Clothing,8499,JazzCash,Returned
+10615,46,2025-07-04,Clothing,6683,JazzCash,Delivered
+10947,271,2025-07-04,Clothing,2545,Cash on Delivery,Delivered
+10849,99,2025-07-05,Groceries,2938,Cash on Delivery,Returned
+10220,69,2025-07-05,Groceries,426,JazzCash,Delivered
+10865,4,2025-07-05,Groceries,3115,JazzCash,Delivered
+11999,213,2025-07-05,Home,28652,JazzCash,Delivered
+10501,208,2025-07-05,Groceries,3418,JazzCash,Returned
+11144,92,2025-07-06,Clothing,2372,JazzCash,Delivered
+10766,187,2025-07-06,Groceries,527,Cash on Delivery,Cancelled
+10295,151,2025-07-06,Home,28409,Easypaisa,Delivered
+11474,56,2025-07-07,Groceries,1895,JazzCash,Returned
+11441,124,2025-07-07,Groceries,2163,Cash on Delivery,Delivered
+11266,271,2025-07-08,Groceries,3836,JazzCash,Delivered
+11460,127,2025-07-09,Groceries,3740,Card,Delivered
+11155,104,2025-07-09,Clothing,5905,Easypaisa,Delivered
+11528,50,2025-07-09,Clothing,7399,Card,Delivered
+11071,59,2025-07-09,Electronics,24723,Card,Delivered
+11607,203,2025-07-09,Clothing,8051,JazzCash,Delivered
+11829,5,2025-07-10,Home,26178,JazzCash,Delivered
+11971,144,2025-07-10,Clothing,4739,Cash on Delivery,Delivered
+10234,259,2025-07-10,Home,5923,Card,Delivered
+11688,117,2025-07-10,Electronics,50440,JazzCash,Delivered
+11788,106,2025-07-10,Groceries,2245,Cash on Delivery,Delivered
+11744,219,2025-07-11,Home,12583,JazzCash,Delivered
+11545,177,2025-07-11,Home,8028,Card,Delivered
+10239,81,2025-07-12,Groceries,3952,Card,Delivered
+11147,287,2025-07-13,Groceries,1485,Cash on Delivery,Delivered
+11644,244,2025-07-13,Home,10265,JazzCash,Delivered
+10213,97,2025-07-13,Electronics,41401,Cash on Delivery,Delivered
+11109,123,2025-07-13,Clothing,2547,Card,Delivered
+11213,90,2025-07-13,Home,17478,Card,Cancelled
+11583,279,2025-07-14,Electronics,54810,JazzCash,Delivered
+10211,183,2025-07-14,Clothing,3518,Easypaisa,Delivered
+10986,3,2025-07-14,Home,11347,JazzCash,Delivered
+11104,245,2025-07-14,Clothing,3859,Cash on Delivery,Delivered
+11427,45,2025-07-14,Clothing,5066,Card,Delivered
+11134,114,2025-07-14,Clothing,7726,Cash on Delivery,Delivered
+10509,42,2025-07-15,Groceries,1852,Easypaisa,Returned
+11654,2,2025-07-15,Groceries,3484,Cash on Delivery,Delivered
+11063,179,2025-07-15,Books,2079,Easypaisa,Cancelled
+11250,144,2025-07-15,Home,25883,Cash on Delivery,Delivered
+11946,225,2025-07-16,Clothing,4572,Easypaisa,Delivered
+10642,193,2025-07-16,Groceries,339,Card,Delivered
+11007,261,2025-07-16,Books,765,Cash on Delivery,Delivered
+10761,71,2025-07-17,Home,25918,Cash on Delivery,Delivered
+10496,34,2025-07-17,Electronics,52601,Cash on Delivery,Delivered
+11458,42,2025-07-17,Groceries,2512,Card,Delivered
+11772,171,2025-07-17,Clothing,6903,JazzCash,Delivered
+10100,244,2025-07-17,Electronics,64769,Easypaisa,Delivered
+10124,183,2025-07-17,Home,28526,JazzCash,Returned
+11136,293,2025-07-18,Electronics,52410,Card,Delivered
+11331,81,2025-07-18,Groceries,3103,Cash on Delivery,Returned
+10889,219,2025-07-18,Clothing,7116,Card,Returned
+11584,198,2025-07-19,Books,1886,JazzCash,Delivered
+10793,137,2025-07-19,Groceries,1919,Cash on Delivery,Delivered
+10782,231,2025-07-19,Clothing,1777,Cash on Delivery,Delivered
+10764,68,2025-07-21,Books,2225,Card,Delivered
+11343,159,2025-07-21,Books,1666,Cash on Delivery,Delivered
+11589,200,2025-07-21,Clothing,3470,Cash on Delivery,Delivered
+10149,99,2025-07-21,Groceries,2082,Card,Cancelled
+11163,259,2025-07-21,Clothing,4312,JazzCash,Delivered
+11669,67,2025-07-22,Groceries,1429,JazzCash,Delivered
+11312,208,2025-07-22,Clothing,7135,Cash on Delivery,Delivered
+10670,228,2025-07-22,Groceries,395,Card,Delivered
+11668,276,2025-07-22,Groceries,666,JazzCash,Returned
+11072,77,2025-07-22,Electronics,9158,JazzCash,Delivered
+10050,155,2025-07-23,Clothing,8852,Cash on Delivery,Delivered
+11928,264,2025-07-23,Clothing,6928,Easypaisa,Delivered
+10409,265,2025-07-23,Books,1864,Card,Delivered
+10188,79,2025-07-23,Groceries,2456,JazzCash,Returned
+11078,111,2025-07-23,Home,18924,Cash on Delivery,Delivered
+11464,189,2025-07-24,Groceries,2956,Cash on Delivery,Delivered
+10923,169,2025-07-24,Electronics,62869,Cash on Delivery,Delivered
+11523,121,2025-07-25,Home,23586,Cash on Delivery,Delivered
+11314,212,2025-07-25,Groceries,1346,Cash on Delivery,Delivered
+10262,138,2025-07-25,Electronics,75256,JazzCash,Delivered
+11631,175,2025-07-25,Clothing,2344,Cash on Delivery,Delivered
+10628,189,2025-07-25,Groceries,600,JazzCash,Delivered
+10791,161,2025-07-25,Electronics,88242,JazzCash,Delivered
+10948,203,2025-07-25,Groceries,814,Cash on Delivery,Delivered
+11836,215,2025-07-25,Clothing,2399,Cash on Delivery,Delivered
+11475,40,2025-07-26,Home,12907,Cash on Delivery,Delivered
+11212,4,2025-07-27,Clothing,4332,Card,Delivered
+10734,134,2025-07-27,Groceries,599,Cash on Delivery,Returned
+11911,206,2025-07-27,Home,8923,Cash on Delivery,Delivered
+11880,12,2025-07-27,Groceries,2584,Cash on Delivery,Delivered
+10159,298,2025-07-28,Books,2606,Card,Delivered
+11761,289,2025-07-28,Clothing,8655,Card,Delivered
+10208,257,2025-07-28,Clothing,8036,Easypaisa,Delivered
+10826,96,2025-07-28,Groceries,1174,Easypaisa,Returned
+10412,213,2025-07-28,Groceries,1398,Cash on Delivery,Delivered
+11798,275,2025-07-28,Home,12061,Cash on Delivery,Delivered
+11450,249,2025-07-29,Groceries,2886,Cash on Delivery,Delivered
+10041,143,2025-07-29,Clothing,3962,Card,Delivered
+10882,88,2025-07-29,Clothing,4508,Cash on Delivery,Delivered
+11404,202,2025-07-29,Clothing,4951,Card,Returned
+10884,237,2025-07-29,Groceries,3908,JazzCash,Delivered
+10319,150,2025-07-30,Home,19243,Cash on Delivery,Delivered
+10871,9,2025-07-31,Groceries,2647,Cash on Delivery,Delivered
+10626,197,2025-07-31,Books,1764,JazzCash,Cancelled
+11148,37,2025-08-01,Groceries,3654,Cash on Delivery,Delivered
+10962,20,2025-08-01,Groceries,3558,Cash on Delivery,Cancelled
+10154,227,2025-08-01,Electronics,80144,Card,Delivered
+11941,36,2025-08-02,Clothing,7910,JazzCash,Cancelled
+10392,132,2025-08-02,Clothing,8800,Cash on Delivery,Delivered
+10226,246,2025-08-02,Home,6695,JazzCash,Delivered
+10767,50,2025-08-02,Home,19801,Easypaisa,Delivered
+11629,62,2025-08-02,Clothing,2450,Cash on Delivery,Delivered
+11280,228,2025-08-03,Groceries,2741,Easypaisa,Delivered
+11936,79,2025-08-03,Books,1956,Cash on Delivery,Delivered
+11390,26,2025-08-03,Home,3604,Easypaisa,Delivered
+10657,28,2025-08-03,Electronics,75497,Cash on Delivery,Delivered
+11913,263,2025-08-03,Clothing,6717,JazzCash,Delivered
+10677,37,2025-08-04,Home,11265,Card,Delivered
+11795,67,2025-08-04,Groceries,897,Cash on Delivery,Returned
+11026,110,2025-08-04,Groceries,2043,Cash on Delivery,Delivered
+11384,26,2025-08-04,Groceries,2191,Cash on Delivery,Delivered
+11966,127,2025-08-04,Clothing,6624,Cash on Delivery,Delivered
+10953,63,2025-08-04,Home,23460,JazzCash,Delivered
+10340,66,2025-08-05,Clothing,4810,Cash on Delivery,Delivered
+10082,107,2025-08-05,Electronics,51539,JazzCash,Delivered
+10168,18,2025-08-05,Electronics,57391,Easypaisa,Delivered
+10179,219,2025-08-05,Groceries,1935,JazzCash,Returned
+11656,146,2025-08-06,Clothing,5719,Easypaisa,Delivered
+11467,127,2025-08-06,Groceries,307,Cash on Delivery,Returned
+11763,131,2025-08-06,Books,2211,Cash on Delivery,Delivered
+10832,168,2025-08-06,Electronics,82024,Cash on Delivery,Returned
+10198,23,2025-08-06,Clothing,3361,Cash on Delivery,Cancelled
+11273,78,2025-08-06,Home,9858,Cash on Delivery,Delivered
+10876,209,2025-08-07,Books,1283,Cash on Delivery,Delivered
+10581,14,2025-08-07,Groceries,795,Cash on Delivery,Delivered
+11177,40,2025-08-07,Groceries,332,Cash on Delivery,Returned
+10011,179,2025-08-07,Groceries,1341,Card,Delivered
+11395,140,2025-08-08,Home,5303,Cash on Delivery,Delivered
+11876,190,2025-08-08,Groceries,3325,Cash on Delivery,Delivered
+11036,150,2025-08-08,Clothing,3690,Cash on Delivery,Delivered
+10245,129,2025-08-08,Electronics,43036,JazzCash,Delivered
+11020,144,2025-08-08,Groceries,2770,Card,Delivered
+11636,116,2025-08-08,Books,2743,Easypaisa,Returned
+10596,30,2025-08-08,Clothing,8956,JazzCash,Cancelled
+10192,59,2025-08-09,Home,5387,Cash on Delivery,Returned
+10797,73,2025-08-09,Groceries,1039,Cash on Delivery,Delivered
+10993,40,2025-08-11,Books,2461,Cash on Delivery,Delivered
+10346,75,2025-08-11,Groceries,3124,Card,Delivered
+11428,267,2025-08-11,Clothing,3260,Cash on Delivery,Delivered
+10235,1,2025-08-11,Electronics,23136,JazzCash,Returned
+11424,62,2025-08-11,Clothing,6384,Cash on Delivery,Delivered
+11734,66,2025-08-11,Books,2391,JazzCash,Delivered
+10249,230,2025-08-12,Groceries,3968,JazzCash,Delivered
+10444,80,2025-08-12,Clothing,8074,Easypaisa,Delivered
+11070,12,2025-08-12,Clothing,2231,Card,Delivered
+10233,61,2025-08-12,Clothing,4539,Cash on Delivery,Returned
+11762,219,2025-08-12,Books,2100,JazzCash,Delivered
+11622,54,2025-08-12,Electronics,51595,Cash on Delivery,Delivered
+10383,41,2025-08-12,Clothing,4163,Cash on Delivery,Returned
+10504,217,2025-08-13,Electronics,31955,Card,Delivered
+11550,186,2025-08-14,Electronics,25090,Card,Delivered
+11902,260,2025-08-14,Home,10367,Cash on Delivery,Delivered
+10713,50,2025-08-14,Books,511,Cash on Delivery,Delivered
+11298,56,2025-08-14,Home,7260,JazzCash,Returned
+10497,296,2025-08-15,Clothing,8599,Easypaisa,Delivered
+10500,202,2025-08-15,Groceries,888,Cash on Delivery,Delivered
+11980,231,2025-08-15,Groceries,1921,Cash on Delivery,Delivered
+10115,134,2025-08-15,Clothing,4854,JazzCash,Cancelled
+10453,163,2025-08-15,Books,2120,Cash on Delivery,Delivered
+11357,17,2025-08-15,Clothing,3400,Cash on Delivery,Delivered
+10607,225,2025-08-16,Groceries,1240,Cash on Delivery,Delivered
+11228,69,2025-08-16,Clothing,5166,Card,Delivered
+11837,66,2025-08-16,Home,17834,Cash on Delivery,Delivered
+10450,138,2025-08-17,Electronics,13857,Easypaisa,Delivered
+10062,217,2025-08-17,Home,4252,Easypaisa,Delivered
+11874,291,2025-08-17,Electronics,81176,JazzCash,Returned
+10495,46,2025-08-17,Electronics,24090,Card,Returned
+10714,287,2025-08-17,Clothing,3293,Cash on Delivery,Delivered
+10129,297,2025-08-18,Home,21808,Cash on Delivery,Delivered
+11729,120,2025-08-18,Home,22027,Card,Delivered
+10547,292,2025-08-18,Home,29202,Card,Cancelled
+11330,80,2025-08-18,Home,19169,Cash on Delivery,Returned
+10538,132,2025-08-19,Clothing,6161,Easypaisa,Delivered
+11272,294,2025-08-19,Clothing,2617,Cash on Delivery,Delivered
+11338,31,2025-08-19,Electronics,15074,Card,Delivered
+11955,11,2025-08-20,Groceries,1178,JazzCash,Delivered
+11252,190,2025-08-20,Groceries,3480,Cash on Delivery,Delivered
+11532,13,2025-08-20,Groceries,2817,Easypaisa,Delivered
+10483,130,2025-08-20,Books,2944,Card,Delivered
+11342,162,2025-08-20,Groceries,2205,JazzCash,Delivered
+11389,140,2025-08-20,Clothing,5552,Easypaisa,Cancelled
+11160,142,2025-08-21,Clothing,4926,Cash on Delivery,Delivered
+11642,140,2025-08-21,Clothing,5039,Easypaisa,Cancelled
+10416,112,2025-08-21,Electronics,85204,Cash on Delivery,Delivered
+10292,127,2025-08-22,Books,2524,Card,Delivered
+10402,81,2025-08-22,Clothing,5658,Cash on Delivery,Returned
+10148,128,2025-08-22,Groceries,1655,Easypaisa,Delivered
+11899,78,2025-08-22,Home,17959,Cash on Delivery,Delivered
+10304,98,2025-08-23,Electronics,22336,Cash on Delivery,Delivered
+11276,218,2025-08-23,Groceries,3663,Cash on Delivery,Delivered
+10064,76,2025-08-23,Groceries,1254,Easypaisa,Delivered
+11484,292,2025-08-23,Groceries,3598,Easypaisa,Delivered
+10121,45,2025-08-23,Home,21975,Cash on Delivery,Delivered
+11339,63,2025-08-24,Clothing,7234,Cash on Delivery,Returned
+11434,265,2025-08-24,Home,13508,Cash on Delivery,Delivered
+10835,63,2025-08-24,Home,27723,JazzCash,Returned
+10163,91,2025-08-25,Home,27842,Cash on Delivery,Delivered
+10303,239,2025-08-26,Groceries,3658,Card,Delivered
+11672,87,2025-08-26,Groceries,320,Cash on Delivery,Delivered
+10290,114,2025-08-27,Electronics,18434,Cash on Delivery,Delivered
+11978,153,2025-08-27,Clothing,1829,Cash on Delivery,Delivered
+10007,286,2025-08-28,Groceries,3547,Cash on Delivery,Delivered
+10998,14,2025-08-28,Books,1761,Easypaisa,Delivered
+11253,177,2025-08-28,Electronics,87807,Easypaisa,Delivered
+10395,211,2025-08-28,Clothing,5096,Cash on Delivery,Delivered
+10546,200,2025-08-28,Home,25402,Cash on Delivery,Delivered
+10754,134,2025-08-28,Books,2014,Cash on Delivery,Delivered
+10232,66,2025-08-29,Groceries,1678,Easypaisa,Delivered
+10133,11,2025-08-29,Electronics,54530,Card,Delivered
+10542,208,2025-08-29,Electronics,11519,Card,Returned
+10910,110,2025-08-29,Electronics,38270,Card,Delivered
+11231,92,2025-08-29,Home,17851,JazzCash,Cancelled
+11073,281,2025-08-30,Home,6138,Cash on Delivery,Delivered
+10648,205,2025-08-30,Clothing,7429,Card,Delivered
+10313,257,2025-08-30,Clothing,4460,Card,Returned
+10291,4,2025-08-30,Clothing,2513,Cash on Delivery,Delivered
+10965,204,2025-08-31,Groceries,544,Cash on Delivery,Delivered
+11994,14,2025-08-31,Groceries,1691,Cash on Delivery,Delivered
+11000,295,2025-09-01,Groceries,1305,Cash on Delivery,Cancelled
+10103,214,2025-09-01,Electronics,51703,Cash on Delivery,Delivered
+10681,215,2025-09-01,Clothing,2687,Cash on Delivery,Delivered
+11780,224,2025-09-01,Groceries,3333,Card,Delivered
+11824,273,2025-09-01,Groceries,646,Easypaisa,Cancelled
+10545,239,2025-09-02,Books,1529,Cash on Delivery,Delivered
+11410,263,2025-09-02,Books,2199,Easypaisa,Delivered
+10455,264,2025-09-03,Groceries,1607,Card,Delivered
+10661,162,2025-09-03,Electronics,17115,Cash on Delivery,Cancelled
+11234,34,2025-09-03,Electronics,62712,JazzCash,Delivered
+10186,162,2025-09-04,Groceries,1615,Easypaisa,Delivered
+10204,176,2025-09-04,Clothing,2191,Card,Delivered
+11100,288,2025-09-04,Electronics,31101,Easypaisa,Cancelled
+11842,156,2025-09-04,Groceries,1234,Cash on Delivery,Delivered
+11864,297,2025-09-04,Clothing,1694,Cash on Delivery,Delivered
+11431,185,2025-09-05,Clothing,2991,Easypaisa,Delivered
+10324,140,2025-09-06,Groceries,1157,Cash on Delivery,Delivered
+11116,121,2025-09-06,Home,10978,JazzCash,Delivered
+11446,66,2025-09-07,Groceries,2668,Easypaisa,Delivered
+10176,129,2025-09-07,Electronics,27115,Cash on Delivery,Delivered
+11675,94,2025-09-07,Electronics,86408,Easypaisa,Delivered
+10732,167,2025-09-07,Clothing,5058,Cash on Delivery,Delivered
+10138,65,2025-09-07,Books,440,Cash on Delivery,Delivered
+11401,156,2025-09-07,Clothing,8957,Cash on Delivery,Cancelled
+11170,131,2025-09-07,Groceries,1440,Easypaisa,Delivered
+10880,275,2025-09-08,Clothing,8278,JazzCash,Delivered
+11110,278,2025-09-08,Electronics,71741,Cash on Delivery,Delivered
+10408,221,2025-09-08,Books,1960,Cash on Delivery,Returned
+10194,251,2025-09-09,Groceries,2842,Cash on Delivery,Delivered
+10580,127,2025-09-09,Clothing,2270,Cash on Delivery,Delivered
+11114,277,2025-09-09,Home,15710,Cash on Delivery,Delivered
+11217,295,2025-09-10,Clothing,8987,Easypaisa,Delivered
+10968,166,2025-09-11,Clothing,8554,JazzCash,Delivered
+10524,130,2025-09-11,Groceries,3989,Cash on Delivery,Delivered
+11948,243,2025-09-11,Home,10546,Cash on Delivery,Returned
+11535,101,2025-09-11,Home,19024,Card,Delivered
+10548,270,2025-09-11,Electronics,17183,JazzCash,Delivered
+11718,294,2025-09-12,Home,20891,Card,Delivered
+11405,71,2025-09-12,Groceries,1217,Cash on Delivery,Cancelled
+10079,254,2025-09-13,Clothing,7950,JazzCash,Delivered
+10464,158,2025-09-14,Groceries,1576,Cash on Delivery,Delivered
+11496,242,2025-09-14,Electronics,8703,JazzCash,Returned
+10257,26,2025-09-14,Groceries,1745,Card,Delivered
+11283,103,2025-09-15,Home,2073,Easypaisa,Delivered
+10153,109,2025-09-15,Clothing,8734,Easypaisa,Delivered
+10436,254,2025-09-15,Clothing,4818,Cash on Delivery,Delivered
+10760,160,2025-09-15,Books,2006,Card,Delivered
+11833,42,2025-09-15,Groceries,3392,Easypaisa,Cancelled
+11076,176,2025-09-16,Electronics,69389,Cash on Delivery,Delivered
+10768,292,2025-09-16,Home,4032,JazzCash,Delivered
+10954,181,2025-09-16,Home,20765,Cash on Delivery,Delivered
+11009,89,2025-09-16,Books,517,JazzCash,Delivered
+10090,153,2025-09-16,Groceries,1543,Card,Delivered
+10502,214,2025-09-16,Clothing,8221,Card,Delivered
+11173,215,2025-09-16,Home,12458,Cash on Delivery,Delivered
+10430,95,2025-09-17,Books,455,Cash on Delivery,Returned
+11417,296,2025-09-17,Groceries,3798,JazzCash,Delivered
+10660,119,2025-09-18,Clothing,5348,Cash on Delivery,Delivered
+11919,188,2025-09-18,Books,1330,Cash on Delivery,Delivered
+11992,51,2025-09-18,Electronics,89078,Card,Delivered
+10520,160,2025-09-18,Groceries,559,Cash on Delivery,Cancelled
+11511,206,2025-09-18,Clothing,6726,Cash on Delivery,Delivered
+11059,81,2025-09-18,Groceries,2690,Cash on Delivery,Delivered
+11924,194,2025-09-19,Groceries,2095,Cash on Delivery,Delivered
+10024,52,2025-09-19,Groceries,486,JazzCash,Returned
+11259,228,2025-09-19,Electronics,12907,JazzCash,Returned
+11585,164,2025-09-20,Clothing,7116,Cash on Delivery,Delivered
+10253,286,2025-09-20,Groceries,3677,Card,Delivered
+11012,222,2025-09-21,Groceries,1743,Card,Delivered
+10759,55,2025-09-21,Clothing,3162,JazzCash,Delivered
+10042,81,2025-09-21,Clothing,7310,Cash on Delivery,Delivered
+11856,272,2025-09-22,Groceries,2895,Easypaisa,Delivered
+10716,25,2025-09-22,Home,3798,Cash on Delivery,Delivered
+10017,79,2025-09-22,Home,10232,Easypaisa,Delivered
+10952,175,2025-09-22,Clothing,7575,Easypaisa,Delivered
+10212,266,2025-09-22,Clothing,6561,Cash on Delivery,Delivered
+11825,59,2025-09-23,Groceries,743,Cash on Delivery,Delivered
+10687,108,2025-09-23,Clothing,8096,JazzCash,Delivered
+10710,46,2025-09-24,Groceries,2670,JazzCash,Delivered
+10964,111,2025-09-24,Clothing,7708,Card,Delivered
+11646,250,2025-09-24,Groceries,2394,Cash on Delivery,Delivered
+11593,59,2025-09-24,Books,2464,Cash on Delivery,Returned
+10481,280,2025-09-25,Clothing,6500,Cash on Delivery,Delivered
+11713,291,2025-09-25,Books,2519,Cash on Delivery,Delivered
+11841,5,2025-09-25,Home,14251,Card,Delivered
+10663,84,2025-09-26,Clothing,4154,Cash on Delivery,Delivered
+10822,70,2025-09-26,Books,2812,JazzCash,Delivered
+10718,155,2025-09-26,Home,29056,Easypaisa,Delivered
+10277,295,2025-09-26,Home,13275,Cash on Delivery,Delivered
+11140,218,2025-09-26,Clothing,3127,Card,Delivered
+10578,251,2025-09-26,Clothing,8253,Cash on Delivery,Delivered
+10776,156,2025-09-26,Groceries,3928,JazzCash,Delivered
+10010,256,2025-09-26,Clothing,3798,Card,Delivered
+10396,165,2025-09-26,Groceries,3760,Cash on Delivery,Cancelled
+11590,49,2025-09-26,Home,8782,Cash on Delivery,Delivered
+11514,274,2025-09-27,Groceries,2723,JazzCash,Delivered
+11536,264,2025-09-27,Electronics,31043,Card,Delivered
+11473,205,2025-09-27,Clothing,6800,Cash on Delivery,Delivered
+11098,133,2025-09-28,Home,6661,Card,Delivered
+10435,242,2025-09-28,Electronics,67235,Cash on Delivery,Delivered
+10561,285,2025-09-29,Books,2078,JazzCash,Delivered
+11802,227,2025-09-29,Books,2017,JazzCash,Delivered
+10592,249,2025-09-29,Clothing,1617,Cash on Delivery,Returned
+10796,285,2025-09-30,Groceries,1327,Cash on Delivery,Delivered
+10631,49,2025-09-30,Books,2647,Cash on Delivery,Delivered
+10145,61,2025-09-30,Clothing,6221,Card,Delivered
+10279,230,2025-09-30,Electronics,36658,Easypaisa,Delivered
+11449,266,2025-10-01,Books,2608,JazzCash,Delivered
+11039,79,2025-10-01,Home,7650,Card,Delivered
+10375,115,2025-10-01,Groceries,3166,Easypaisa,Delivered
+11420,110,2025-10-01,Electronics,58065,JazzCash,Delivered
+10431,288,2025-10-01,Home,7878,Cash on Delivery,Delivered
+11662,144,2025-10-02,Electronics,14454,Easypaisa,Delivered
+11066,65,2025-10-02,Clothing,1730,Cash on Delivery,Delivered
+11721,149,2025-10-02,Clothing,1846,Cash on Delivery,Delivered
+11623,214,2025-10-02,Clothing,6439,Cash on Delivery,Delivered
+11060,201,2025-10-03,Electronics,75105,Easypaisa,Delivered
+11680,216,2025-10-03,Groceries,1207,Cash on Delivery,Delivered
+11291,13,2025-10-04,Groceries,3663,Cash on Delivery,Delivered
+11296,7,2025-10-04,Groceries,2632,Card,Delivered
+11603,24,2025-10-04,Electronics,40424,Cash on Delivery,Delivered
+10020,114,2025-10-05,Groceries,3333,JazzCash,Returned
+10013,275,2025-10-05,Groceries,1431,Card,Delivered
+11614,193,2025-10-05,Electronics,27968,Card,Delivered
+10491,102,2025-10-05,Groceries,3477,JazzCash,Delivered
+11671,238,2025-10-06,Groceries,2952,Cash on Delivery,Delivered
+10625,183,2025-10-06,Clothing,7875,Card,Cancelled
+11195,235,2025-10-06,Clothing,6889,Cash on Delivery,Delivered
+10479,178,2025-10-06,Home,23802,Cash on Delivery,Delivered
+10415,214,2025-10-06,Clothing,6708,Cash on Delivery,Delivered
+11805,71,2025-10-06,Clothing,2702,Easypaisa,Delivered
+10723,110,2025-10-07,Electronics,31679,Cash on Delivery,Delivered
+10151,79,2025-10-08,Home,11646,Card,Delivered
+11367,100,2025-10-08,Clothing,5917,Cash on Delivery,Delivered
+11175,267,2025-10-08,Groceries,2386,Cash on Delivery,Delivered
+10180,74,2025-10-09,Electronics,76698,Cash on Delivery,Delivered
+11697,218,2025-10-09,Home,19890,Card,Delivered
+11400,187,2025-10-09,Home,20731,Cash on Delivery,Delivered
+10553,38,2025-10-09,Groceries,2519,Card,Delivered
+10356,16,2025-10-09,Home,21052,Cash on Delivery,Delivered
+11896,1,2025-10-09,Home,21838,JazzCash,Delivered
+10777,250,2025-10-10,Books,443,Easypaisa,Delivered
+11727,25,2025-10-10,Electronics,59832,Cash on Delivery,Delivered
+11641,15,2025-10-10,Groceries,1593,Cash on Delivery,Delivered
+10448,290,2025-10-10,Groceries,1192,Card,Delivered
+11534,290,2025-10-11,Clothing,5750,Cash on Delivery,Delivered
+11010,207,2025-10-11,Groceries,3627,Cash on Delivery,Delivered
+10338,281,2025-10-11,Electronics,34926,Cash on Delivery,Delivered
+11209,119,2025-10-12,Groceries,1945,JazzCash,Delivered
+11499,191,2025-10-12,Clothing,3421,JazzCash,Delivered
+11130,73,2025-10-12,Books,1089,JazzCash,Delivered
+10005,32,2025-10-12,Groceries,1771,Card,Delivered
+10485,228,2025-10-13,Electronics,54897,Cash on Delivery,Delivered
+11681,219,2025-10-13,Clothing,1627,Cash on Delivery,Delivered
+10278,166,2025-10-13,Books,1235,Cash on Delivery,Delivered
+10788,187,2025-10-13,Groceries,2498,Cash on Delivery,Delivered
+11558,167,2025-10-13,Groceries,2082,Cash on Delivery,Delivered
+10302,202,2025-10-13,Groceries,3749,Card,Delivered
+11201,145,2025-10-14,Groceries,1603,JazzCash,Delivered
+11660,127,2025-10-14,Groceries,441,JazzCash,Delivered
+10665,35,2025-10-15,Groceries,2531,Cash on Delivery,Delivered
+11983,186,2025-10-15,Electronics,63392,Easypaisa,Returned
+10613,52,2025-10-15,Books,1503,Cash on Delivery,Delivered
+11529,50,2025-10-15,Groceries,928,JazzCash,Delivered
+11969,277,2025-10-15,Home,17532,Cash on Delivery,Delivered
+10006,171,2025-10-15,Clothing,2107,JazzCash,Delivered
+11756,29,2025-10-16,Home,24869,Card,Delivered
+11281,172,2025-10-16,Groceries,623,Cash on Delivery,Delivered
+11377,125,2025-10-16,Groceries,3885,Card,Delivered
+10441,184,2025-10-16,Electronics,45322,Card,Delivered
+10863,31,2025-10-17,Electronics,31397,Cash on Delivery,Returned
+10474,103,2025-10-17,Electronics,50642,Cash on Delivery,Delivered
+11973,162,2025-10-17,Clothing,3823,Easypaisa,Delivered
+10289,57,2025-10-18,Clothing,7777,Card,Delivered
+10603,293,2025-10-18,Groceries,2680,Cash on Delivery,Returned
+11865,252,2025-10-18,Books,2359,Easypaisa,Delivered
+11121,247,2025-10-19,Groceries,1818,Cash on Delivery,Cancelled
+10182,201,2025-10-19,Home,25601,Cash on Delivery,Delivered
+11295,80,2025-10-19,Clothing,5931,Cash on Delivery,Delivered
+10698,133,2025-10-20,Groceries,3034,Cash on Delivery,Returned
+10956,140,2025-10-20,Home,14089,Card,Delivered
+11752,50,2025-10-20,Clothing,2397,Card,Delivered
+11368,52,2025-10-21,Groceries,548,Easypaisa,Delivered
+10297,21,2025-10-21,Home,25286,JazzCash,Delivered
+11736,28,2025-10-21,Electronics,88239,JazzCash,Delivered
+10094,119,2025-10-21,Home,28059,JazzCash,Cancelled
+11157,196,2025-10-21,Electronics,32076,Cash on Delivery,Delivered
+11573,219,2025-10-22,Groceries,1940,JazzCash,Delivered
+11674,197,2025-10-22,Clothing,7813,Cash on Delivery,Delivered
+10160,214,2025-10-23,Clothing,7480,Easypaisa,Cancelled
+11592,55,2025-10-23,Home,23286,Easypaisa,Returned
+11569,168,2025-10-23,Groceries,1879,Cash on Delivery,Delivered
+11305,213,2025-10-24,Clothing,7323,Card,Delivered
+11817,189,2025-10-24,Clothing,4351,Easypaisa,Delivered
+11848,171,2025-10-24,Clothing,3330,Card,Returned
+10646,147,2025-10-24,Groceries,2373,Card,Delivered
+11934,243,2025-10-24,Clothing,5759,Cash on Delivery,Delivered
+10446,5,2025-10-25,Home,21445,Cash on Delivery,Delivered
+10110,113,2025-10-25,Electronics,77176,Cash on Delivery,Delivered
+10570,112,2025-10-25,Clothing,2138,Cash on Delivery,Delivered
+10298,29,2025-10-25,Electronics,33154,Card,Delivered
+10456,296,2025-10-25,Groceries,2779,Cash on Delivery,Returned
+11359,6,2025-10-26,Books,1921,Cash on Delivery,Delivered
+10102,185,2025-10-26,Groceries,3384,Cash on Delivery,Delivered
+11500,147,2025-10-26,Groceries,1736,Cash on Delivery,Delivered
+10600,2,2025-10-28,Groceries,3921,Cash on Delivery,Delivered
+10221,101,2025-10-28,Groceries,2228,Card,Cancelled
+10803,39,2025-10-28,Groceries,1480,Cash on Delivery,Delivered
+11308,268,2025-10-28,Electronics,31977,Easypaisa,Returned
+11799,180,2025-10-29,Groceries,1590,Easypaisa,Delivered
+10489,132,2025-10-29,Electronics,60520,Cash on Delivery,Delivered
+10285,30,2025-10-29,Electronics,19582,Cash on Delivery,Delivered
+10605,97,2025-10-29,Home,9818,Easypaisa,Delivered
+10214,136,2025-10-30,Electronics,54766,Easypaisa,Delivered
+10404,289,2025-10-30,Clothing,6719,JazzCash,Returned
+10472,274,2025-10-31,Clothing,2359,Card,Cancelled
+11369,195,2025-10-31,Books,1003,Easypaisa,Delivered
+10612,74,2025-10-31,Clothing,3262,Cash on Delivery,Delivered
+11468,58,2025-10-31,Books,2237,JazzCash,Delivered
+10206,264,2025-10-31,Home,14266,Cash on Delivery,Delivered
+11800,180,2025-10-31,Groceries,3911,JazzCash,Delivered
+11909,195,2025-11-01,Electronics,89591,Cash on Delivery,Delivered
+11988,254,2025-11-01,Groceries,2384,Cash on Delivery,Cancelled
+10690,30,2025-11-01,Groceries,3206,Cash on Delivery,Delivered
+11683,145,2025-11-01,Groceries,2797,Cash on Delivery,Delivered
+11407,189,2025-11-01,Groceries,375,Cash on Delivery,Returned
+11907,170,2025-11-02,Electronics,37974,Cash on Delivery,Delivered
+11290,190,2025-11-02,Clothing,2706,Cash on Delivery,Delivered
+10937,30,2025-11-02,Clothing,5846,Cash on Delivery,Returned
+11077,134,2025-11-02,Clothing,6460,JazzCash,Delivered
+10756,190,2025-11-03,Books,1230,Cash on Delivery,Delivered
+11567,109,2025-11-03,Clothing,8281,Cash on Delivery,Returned
+10385,160,2025-11-03,Clothing,2094,JazzCash,Delivered
+11099,142,2025-11-04,Electronics,17824,JazzCash,Delivered
+11255,219,2025-11-04,Clothing,8721,Cash on Delivery,Delivered
+10960,72,2025-11-04,Groceries,800,JazzCash,Delivered
+11794,290,2025-11-05,Groceries,396,JazzCash,Delivered
+10746,116,2025-11-05,Groceries,1183,Cash on Delivery,Delivered
+10558,143,2025-11-05,Electronics,16089,JazzCash,Delivered
+11854,111,2025-11-05,Clothing,7367,Cash on Delivery,Delivered
+10733,24,2025-11-05,Clothing,2782,Cash on Delivery,Returned
+11633,179,2025-11-06,Groceries,973,Cash on Delivery,Delivered
+10506,199,2025-11-06,Clothing,5876,JazzCash,Delivered
+10057,205,2025-11-06,Clothing,4727,Cash on Delivery,Delivered
+11707,68,2025-11-07,Home,7930,Cash on Delivery,Delivered
+11975,113,2025-11-08,Groceries,2955,JazzCash,Cancelled
+11649,216,2025-11-08,Home,27440,Card,Delivered
+10840,60,2025-11-09,Clothing,4017,JazzCash,Delivered
+11612,4,2025-11-09,Groceries,3572,Cash on Delivery,Delivered
+10634,140,2025-11-09,Groceries,1689,Easypaisa,Delivered
+11488,195,2025-11-10,Clothing,4541,Card,Delivered
+10246,230,2025-11-10,Groceries,1350,Cash on Delivery,Delivered
+10783,43,2025-11-10,Electronics,12996,Cash on Delivery,Delivered
+11586,1,2025-11-10,Groceries,3758,Easypaisa,Delivered
+10438,180,2025-11-11,Electronics,21036,Cash on Delivery,Delivered
+11943,166,2025-11-11,Clothing,7601,Cash on Delivery,Delivered
+11366,153,2025-11-11,Books,2298,Cash on Delivery,Delivered
+11530,197,2025-11-11,Books,1335,Cash on Delivery,Returned
+10353,207,2025-11-12,Home,26986,Easypaisa,Returned
+11184,235,2025-11-12,Groceries,3657,Card,Delivered
+10515,229,2025-11-12,Electronics,47093,Easypaisa,Delivered
+10534,242,2025-11-12,Electronics,60038,Cash on Delivery,Delivered
+10083,68,2025-11-13,Clothing,4581,Cash on Delivery,Returned
+10727,58,2025-11-14,Electronics,84334,Cash on Delivery,Cancelled
+10325,220,2025-11-14,Clothing,7115,JazzCash,Delivered
+11932,38,2025-11-14,Groceries,355,Cash on Delivery,Delivered
+11951,149,2025-11-14,Electronics,64394,Easypaisa,Delivered
+11877,279,2025-11-14,Clothing,3074,JazzCash,Returned
+10276,233,2025-11-14,Electronics,88680,Card,Delivered
+11260,50,2025-11-15,Groceries,763,Card,Returned
+10945,232,2025-11-15,Groceries,3342,Easypaisa,Delivered
+11254,95,2025-11-15,Home,20771,Card,Delivered
+11690,75,2025-11-17,Groceries,1792,Easypaisa,Delivered
+11103,94,2025-11-17,Clothing,6988,Card,Delivered
+10582,102,2025-11-18,Home,13406,Card,Delivered
+10721,191,2025-11-19,Electronics,76319,Easypaisa,Delivered
+10749,6,2025-11-19,Electronics,30674,Cash on Delivery,Delivered
+11211,104,2025-11-20,Clothing,6438,Easypaisa,Delivered
+11230,166,2025-11-20,Groceries,2779,Easypaisa,Delivered
+10544,295,2025-11-20,Books,2013,Card,Delivered
+11710,147,2025-11-20,Groceries,2846,Easypaisa,Delivered
+11413,292,2025-11-21,Groceries,1436,Cash on Delivery,Returned
+10442,122,2025-11-21,Books,1215,Cash on Delivery,Delivered
+11326,1,2025-11-21,Books,2115,Cash on Delivery,Delivered
+11425,189,2025-11-21,Home,26921,Cash on Delivery,Delivered
+10073,17,2025-11-21,Clothing,7023,JazzCash,Delivered
+11949,170,2025-11-21,Groceries,1183,Cash on Delivery,Delivered
+10635,253,2025-11-21,Electronics,52000,JazzCash,Delivered
+10591,78,2025-11-22,Electronics,69920,JazzCash,Returned
+10425,241,2025-11-22,Clothing,1517,Cash on Delivery,Delivered
+11194,116,2025-11-22,Groceries,358,Cash on Delivery,Delivered
+10215,100,2025-11-22,Groceries,3026,Card,Delivered
+10856,83,2025-11-22,Clothing,7835,Cash on Delivery,Delivered
+11051,23,2025-11-23,Groceries,2465,Cash on Delivery,Delivered
+10705,93,2025-11-23,Clothing,1931,Cash on Delivery,Delivered
+11767,141,2025-11-23,Groceries,335,Cash on Delivery,Delivered
+11347,40,2025-11-23,Electronics,8535,Cash on Delivery,Delivered
+10316,287,2025-11-24,Home,14326,Card,Delivered
+10925,209,2025-11-24,Home,18207,Cash on Delivery,Delivered
+11402,128,2025-11-25,Groceries,682,JazzCash,Delivered
+11976,188,2025-11-26,Clothing,3354,JazzCash,Delivered
+10702,276,2025-11-26,Groceries,1881,Easypaisa,Delivered
+10216,43,2025-11-27,Clothing,6440,Card,Delivered
+10845,143,2025-11-27,Electronics,74466,Cash on Delivery,Delivered
+10900,129,2025-11-27,Groceries,304,Card,Delivered
+10493,110,2025-11-27,Books,1148,Cash on Delivery,Delivered
+11129,228,2025-11-27,Books,2338,Cash on Delivery,Delivered
+11299,267,2025-11-27,Electronics,83498,Card,Delivered
+11702,243,2025-11-27,Groceries,3857,Easypaisa,Delivered
+11188,251,2025-11-28,Home,5139,Card,Delivered
+10750,242,2025-11-28,Clothing,8135,Cash on Delivery,Returned
+11768,227,2025-11-28,Electronics,41961,Cash on Delivery,Delivered
+11791,176,2025-11-29,Groceries,1979,Easypaisa,Delivered
+11610,22,2025-11-30,Clothing,7182,Cash on Delivery,Delivered
+10722,123,2025-11-30,Home,11457,Cash on Delivery,Delivered
+11845,200,2025-12-01,Groceries,2666,Easypaisa,Delivered
+11516,241,2025-12-01,Electronics,49450,Cash on Delivery,Delivered
+11596,177,2025-12-01,Clothing,8231,Card,Delivered
+10918,202,2025-12-02,Groceries,2134,Cash on Delivery,Delivered
+10590,49,2025-12-02,Electronics,80807,Card,Delivered
+10602,280,2025-12-03,Groceries,540,Cash on Delivery,Delivered
+10758,34,2025-12-04,Electronics,11772,Cash on Delivery,Delivered
+10738,192,2025-12-04,Groceries,1543,Cash on Delivery,Delivered
+11418,100,2025-12-04,Home,17240,Easypaisa,Returned
+11944,161,2025-12-04,Groceries,1530,Cash on Delivery,Cancelled
+11961,215,2025-12-05,Clothing,1712,Easypaisa,Delivered
+11480,42,2025-12-05,Clothing,4407,JazzCash,Delivered
+10026,228,2025-12-05,Groceries,2216,Card,Delivered
+11033,129,2025-12-06,Clothing,5667,Easypaisa,Delivered
+10995,292,2025-12-06,Clothing,2929,Cash on Delivery,Delivered
+11506,206,2025-12-06,Clothing,6117,Cash on Delivery,Delivered
+11720,128,2025-12-07,Books,757,Cash on Delivery,Delivered
+10550,166,2025-12-07,Clothing,4646,Cash on Delivery,Delivered
+10819,269,2025-12-07,Groceries,2929,Card,Delivered
+11981,63,2025-12-07,Electronics,73957,Easypaisa,Cancelled
+11120,286,2025-12-08,Clothing,3620,Cash on Delivery,Delivered
+10370,193,2025-12-08,Clothing,6078,Cash on Delivery,Delivered
+10725,119,2025-12-08,Home,4389,Easypaisa,Delivered
+11628,268,2025-12-09,Groceries,1251,JazzCash,Delivered
+10305,148,2025-12-09,Electronics,67403,Cash on Delivery,Delivered
+11381,134,2025-12-09,Clothing,4007,Easypaisa,Delivered
+11604,189,2025-12-09,Electronics,69588,Easypaisa,Delivered
+10643,271,2025-12-10,Home,10434,Card,Returned
+11708,125,2025-12-10,Groceries,1314,Card,Delivered
+10196,64,2025-12-10,Groceries,510,Easypaisa,Delivered
+11867,200,2025-12-11,Groceries,747,Easypaisa,Delivered
+11297,106,2025-12-11,Electronics,51810,JazzCash,Cancelled
+10125,265,2025-12-12,Groceries,1773,JazzCash,Delivered
+11634,259,2025-12-12,Books,2407,Easypaisa,Delivered
+10630,96,2025-12-12,Books,1736,Cash on Delivery,Delivered
+10708,1,2025-12-12,Home,3147,Card,Delivered
+10419,195,2025-12-12,Electronics,30390,JazzCash,Delivered
+11574,289,2025-12-12,Electronics,28101,Cash on Delivery,Delivered
+11075,70,2025-12-13,Books,1361,Cash on Delivery,Delivered
+10673,201,2025-12-13,Home,4572,Card,Delivered
+10873,217,2025-12-13,Electronics,71542,Card,Delivered
+10333,212,2025-12-13,Electronics,20466,Cash on Delivery,Delivered
+10709,11,2025-12-13,Groceries,1529,Cash on Delivery,Delivered
+11355,112,2025-12-14,Clothing,6470,Card,Delivered
+10844,187,2025-12-14,Books,1003,Card,Delivered
+11226,121,2025-12-14,Clothing,3298,Cash on Delivery,Delivered
+11977,184,2025-12-14,Clothing,8629,Cash on Delivery,Delivered
+11582,202,2025-12-14,Electronics,28725,Easypaisa,Delivered
+11045,156,2025-12-14,Clothing,6375,Card,Delivered
+11429,277,2025-12-14,Clothing,2890,Card,Delivered
+11216,179,2025-12-15,Groceries,2279,Cash on Delivery,Delivered
+10573,97,2025-12-15,Clothing,8820,Card,Returned
+10699,169,2025-12-16,Electronics,13410,Card,Delivered
+10996,161,2025-12-16,Books,2215,Cash on Delivery,Delivered
+11640,175,2025-12-16,Home,23662,Easypaisa,Delivered
+11352,296,2025-12-16,Groceries,942,Card,Returned
+11310,115,2025-12-16,Electronics,80475,Cash on Delivery,Delivered
+10486,37,2025-12-17,Electronics,33221,Cash on Delivery,Delivered
+10161,98,2025-12-17,Home,26828,Card,Delivered
+11728,56,2025-12-17,Groceries,2353,Cash on Delivery,Delivered
+11101,187,2025-12-18,Home,6602,Card,Delivered
+10357,221,2025-12-18,Books,1361,JazzCash,Delivered
+10650,148,2025-12-18,Electronics,60586,JazzCash,Delivered
+10752,120,2025-12-18,Groceries,2807,Cash on Delivery,Delivered
+10549,10,2025-12-19,Books,1385,Cash on Delivery,Returned
+10451,139,2025-12-19,Clothing,6486,JazzCash,Delivered
+11827,214,2025-12-19,Electronics,11440,Easypaisa,Delivered
+10107,62,2025-12-19,Books,2214,Cash on Delivery,Delivered
+11773,56,2025-12-21,Electronics,20832,Cash on Delivery,Delivered
+11256,33,2025-12-21,Groceries,2986,Cash on Delivery,Delivered
+10156,7,2025-12-21,Clothing,6629,Cash on Delivery,Cancelled
+11080,34,2025-12-22,Electronics,23374,Cash on Delivery,Returned
+11443,173,2025-12-22,Groceries,3833,Easypaisa,Delivered
+11777,19,2025-12-22,Clothing,4084,Cash on Delivery,Delivered
+10457,51,2025-12-22,Electronics,85038,Card,Delivered
+11328,178,2025-12-22,Clothing,3814,Easypaisa,Delivered
+10265,224,2025-12-22,Clothing,4708,Cash on Delivery,Delivered
+11748,51,2025-12-23,Clothing,4378,Card,Delivered
+11197,170,2025-12-23,Groceries,1876,Card,Delivered
+11269,192,2025-12-23,Electronics,68435,Cash on Delivery,Delivered
+11319,259,2025-12-23,Home,6613,Cash on Delivery,Delivered
+10908,122,2025-12-23,Clothing,5318,Card,Cancelled
+10454,266,2025-12-23,Home,8345,Card,Delivered
+10327,143,2025-12-23,Clothing,6797,Card,Delivered
+10199,90,2025-12-24,Electronics,30428,Cash on Delivery,Delivered
+10912,231,2025-12-25,Clothing,1534,Cash on Delivery,Delivered
+11577,210,2025-12-25,Electronics,16885,Cash on Delivery,Delivered
+10510,223,2025-12-26,Electronics,12934,JazzCash,Delivered
+10935,217,2025-12-26,Books,1117,JazzCash,Returned
+10847,55,2025-12-27,Groceries,574,Easypaisa,Delivered
+11945,78,2025-12-27,Groceries,416,Card,Delivered
+10833,277,2025-12-27,Clothing,6212,Easypaisa,Delivered
+10255,104,2025-12-27,Groceries,550,JazzCash,Delivered
+10639,36,2025-12-27,Clothing,2750,Card,Cancelled
+10891,57,2025-12-30,Clothing,7836,JazzCash,Delivered
+10157,17,2025-12-30,Clothing,8613,Cash on Delivery,Delivered
+10943,86,2025-12-30,Groceries,1091,JazzCash,Delivered
+10141,28,2025-12-31,Groceries,3529,Cash on Delivery,Delivered
+10432,36,2025-12-31,Groceries,1268,Cash on Delivery,Delivered
+11486,239,2025-12-31,Home,11971,JazzCash,Delivered
+11696,247,2025-12-31,Clothing,8441,Card,Delivered
+11348,184,2026-01-01,Books,882,Card,Delivered
+10641,101,2026-01-01,Clothing,2376,Cash on Delivery,Delivered
+11239,30,2026-01-01,Clothing,8828,Cash on Delivery,Delivered
+11046,3,2026-01-02,Home,18256,Card,Delivered
+10080,126,2026-01-02,Clothing,8128,JazzCash,Delivered
+10173,9,2026-01-02,Books,701,JazzCash,Delivered
+11803,201,2026-01-02,Groceries,3806,Cash on Delivery,Delivered
+10898,16,2026-01-02,Clothing,7743,JazzCash,Delivered
+11185,10,2026-01-02,Home,12656,JazzCash,Delivered
+11638,232,2026-01-03,Clothing,2682,Easypaisa,Delivered
+11916,284,2026-01-03,Clothing,5213,Cash on Delivery,Delivered
+11094,160,2026-01-03,Clothing,2785,JazzCash,Delivered
+11329,290,2026-01-03,Electronics,81181,Card,Returned
+10651,293,2026-01-03,Home,20285,Cash on Delivery,Delivered
+10127,156,2026-01-03,Groceries,2668,Cash on Delivery,Delivered
+10449,144,2026-01-03,Groceries,3004,Easypaisa,Delivered
+11953,148,2026-01-04,Groceries,3344,Easypaisa,Delivered
+10184,209,2026-01-04,Clothing,8100,Cash on Delivery,Returned
+10074,277,2026-01-05,Groceries,1545,JazzCash,Delivered
+11191,251,2026-01-05,Clothing,8545,Cash on Delivery,Delivered
+10229,58,2026-01-05,Home,28461,JazzCash,Returned
+10931,253,2026-01-06,Groceries,544,Cash on Delivery,Delivered
+11370,172,2026-01-06,Clothing,8841,JazzCash,Delivered
+10555,291,2026-01-06,Clothing,6472,JazzCash,Delivered
+11095,36,2026-01-06,Clothing,5605,Cash on Delivery,Delivered
+10806,235,2026-01-07,Electronics,33186,Cash on Delivery,Delivered
+10864,105,2026-01-07,Groceries,3532,Cash on Delivery,Delivered
+10091,5,2026-01-07,Books,2818,Cash on Delivery,Delivered
+10846,149,2026-01-07,Books,2508,Cash on Delivery,Delivered
+11350,84,2026-01-07,Electronics,59430,Card,Returned
+11219,212,2026-01-08,Books,1577,Easypaisa,Delivered
+10076,212,2026-01-08,Groceries,1181,Cash on Delivery,Delivered
+11106,216,2026-01-08,Clothing,3864,Card,Delivered
+11711,81,2026-01-08,Groceries,1656,Cash on Delivery,Delivered
+10351,198,2026-01-09,Books,2934,Cash on Delivery,Delivered
+10492,212,2026-01-09,Clothing,8355,Card,Delivered
+10523,210,2026-01-09,Books,589,JazzCash,Delivered
+10294,121,2026-01-09,Electronics,24310,Easypaisa,Delivered
+11863,220,2026-01-09,Clothing,6290,Cash on Delivery,Delivered
+11557,105,2026-01-09,Groceries,3811,Card,Delivered
+10798,294,2026-01-10,Groceries,3070,Card,Delivered
+10805,8,2026-01-10,Books,2968,Card,Delivered
+11522,242,2026-01-10,Books,825,JazzCash,Cancelled
+10838,184,2026-01-10,Groceries,3463,Cash on Delivery,Delivered
+11358,275,2026-01-11,Electronics,76741,Easypaisa,Delivered
+11385,276,2026-01-11,Home,20901,Card,Delivered
+11364,275,2026-01-11,Clothing,5032,Cash on Delivery,Cancelled
+11687,88,2026-01-11,Clothing,5322,Card,Returned
+11240,292,2026-01-11,Home,28902,Card,Delivered
+11926,202,2026-01-12,Electronics,30305,JazzCash,Delivered
+10981,101,2026-01-13,Books,2853,Cash on Delivery,Delivered
+11508,81,2026-01-13,Books,1570,Cash on Delivery,Delivered
+11164,211,2026-01-14,Groceries,2693,Cash on Delivery,Delivered
+10816,121,2026-01-14,Electronics,37295,Card,Delivered
+10728,72,2026-01-14,Home,11910,Card,Delivered
+11198,158,2026-01-14,Groceries,1827,Easypaisa,Delivered
+11035,104,2026-01-14,Clothing,5254,Cash on Delivery,Delivered
+10191,51,2026-01-14,Clothing,3787,Easypaisa,Delivered
+11789,42,2026-01-15,Home,7069,JazzCash,Delivered
+10095,21,2026-01-15,Home,13105,JazzCash,Returned
+11143,40,2026-01-15,Electronics,87330,Cash on Delivery,Returned
+10344,119,2026-01-15,Groceries,1583,JazzCash,Delivered
+10950,177,2026-01-16,Electronics,13687,Cash on Delivery,Returned
+11150,286,2026-01-17,Home,6335,Cash on Delivery,Delivered
+10038,276,2026-01-17,Groceries,423,JazzCash,Cancelled
+10841,224,2026-01-17,Groceries,3272,Cash on Delivery,Delivered
+10046,235,2026-01-18,Electronics,8484,Cash on Delivery,Returned
+11476,281,2026-01-18,Electronics,47686,JazzCash,Returned
+11176,149,2026-01-18,Electronics,36968,JazzCash,Delivered
+10330,19,2026-01-19,Electronics,21451,JazzCash,Delivered
+11081,89,2026-01-19,Clothing,1861,Cash on Delivery,Delivered
+11471,292,2026-01-19,Groceries,3254,JazzCash,Delivered
+10363,194,2026-01-19,Books,1898,Card,Delivered
+11974,209,2026-01-19,Clothing,7207,Cash on Delivery,Delivered
+10563,182,2026-01-20,Electronics,54965,Cash on Delivery,Delivered
+11914,44,2026-01-20,Books,2053,Cash on Delivery,Delivered
+10940,151,2026-01-20,Clothing,6779,Easypaisa,Delivered
+10957,233,2026-01-21,Groceries,1200,Easypaisa,Delivered
+10219,204,2026-01-21,Clothing,3726,Cash on Delivery,Delivered
+10817,119,2026-01-21,Home,26572,Easypaisa,Delivered
+10341,210,2026-01-21,Books,2084,Card,Delivered
+10225,28,2026-01-21,Groceries,2016,Cash on Delivery,Delivered
+11790,188,2026-01-21,Clothing,6329,Cash on Delivery,Delivered
+11049,34,2026-01-22,Groceries,2416,JazzCash,Delivered
+11023,280,2026-01-22,Clothing,8000,Cash on Delivery,Cancelled
+10901,142,2026-01-22,Home,4539,Easypaisa,Delivered
+10774,44,2026-01-22,Books,1912,Cash on Delivery,Delivered
+11737,22,2026-01-23,Home,19198,Cash on Delivery,Delivered
+10619,110,2026-01-23,Groceries,786,Cash on Delivery,Delivered
+11647,242,2026-01-24,Electronics,32837,Cash on Delivery,Delivered
+11225,226,2026-01-24,Books,423,Cash on Delivery,Delivered
+11571,60,2026-01-25,Home,7051,Cash on Delivery,Delivered
+11448,226,2026-01-25,Electronics,59014,Easypaisa,Delivered
+11387,97,2026-01-25,Books,435,Card,Returned
+11551,200,2026-01-25,Clothing,4002,JazzCash,Delivered
+12000,82,2026-01-25,Home,21562,Cash on Delivery,Delivered
+10569,164,2026-01-25,Clothing,4496,Card,Delivered
+10354,266,2026-01-25,Clothing,7255,Easypaisa,Delivered
+10731,87,2026-01-25,Groceries,643,Easypaisa,Delivered
+10916,246,2026-01-25,Home,10413,Cash on Delivery,Delivered
+11088,147,2026-01-25,Groceries,3341,Cash on Delivery,Delivered
+11246,240,2026-01-26,Electronics,26181,Cash on Delivery,Cancelled
+11412,62,2026-01-27,Books,1033,Easypaisa,Delivered
+11052,159,2026-01-27,Groceries,3542,JazzCash,Delivered
+11365,163,2026-01-27,Clothing,7251,Cash on Delivery,Delivered
+11525,92,2026-01-28,Home,22488,Cash on Delivery,Delivered
+10688,245,2026-01-28,Clothing,7729,Cash on Delivery,Delivered
+11635,230,2026-01-29,Electronics,37165,Card,Delivered
+10936,248,2026-01-29,Clothing,8782,Cash on Delivery,Delivered
+10283,275,2026-01-29,Books,1242,Card,Delivered
+10422,99,2026-01-29,Electronics,65315,Easypaisa,Delivered
+11062,197,2026-01-29,Home,5598,Easypaisa,Delivered
+10610,60,2026-01-29,Home,10205,Easypaisa,Delivered
+10165,146,2026-01-29,Electronics,27790,Cash on Delivery,Delivered
+11796,238,2026-01-29,Groceries,949,Cash on Delivery,Delivered
+10201,239,2026-01-30,Groceries,487,Easypaisa,Cancelled
+10763,114,2026-01-30,Groceries,3004,JazzCash,Delivered
+10414,100,2026-01-30,Clothing,2759,Cash on Delivery,Delivered
+10696,123,2026-01-30,Groceries,2233,Easypaisa,Delivered
+10362,182,2026-01-30,Clothing,7592,Easypaisa,Delivered
+10445,140,2026-01-31,Electronics,65743,Card,Delivered
+11432,100,2026-01-31,Clothing,2729,Cash on Delivery,Delivered
+11611,106,2026-01-31,Electronics,77566,Cash on Delivery,Returned
+10799,180,2026-01-31,Electronics,86938,JazzCash,Delivered
+10689,24,2026-01-31,Home,15174,Cash on Delivery,Delivered
+11779,36,2026-01-31,Groceries,3809,Easypaisa,Delivered
+11019,281,2026-02-02,Groceries,527,Easypaisa,Delivered
+10902,113,2026-02-02,Clothing,4769,JazzCash,Delivered
+11192,13,2026-02-02,Groceries,1243,Cash on Delivery,Delivered
+11321,124,2026-02-02,Clothing,1692,Cash on Delivery,Delivered
+11998,283,2026-02-02,Groceries,1617,JazzCash,Delivered
+11214,82,2026-02-03,Clothing,8969,Card,Delivered
+10852,191,2026-02-03,Groceries,1843,JazzCash,Delivered
+11131,85,2026-02-03,Books,1023,Card,Delivered
+11108,270,2026-02-03,Home,18579,JazzCash,Delivered
+11115,266,2026-02-03,Home,10606,Card,Delivered
+11665,251,2026-02-04,Home,16753,Easypaisa,Delivered
+10675,9,2026-02-04,Home,9141,Card,Delivered
+10209,260,2026-02-04,Clothing,4537,Cash on Delivery,Returned
+11284,249,2026-02-04,Clothing,2335,Cash on Delivery,Delivered
+11067,196,2026-02-05,Groceries,1501,Cash on Delivery,Delivered
+10512,25,2026-02-05,Groceries,1200,Cash on Delivery,Delivered
+11426,73,2026-02-05,Home,10693,Cash on Delivery,Delivered
+10244,258,2026-02-05,Electronics,21624,Easypaisa,Delivered
+11518,270,2026-02-05,Electronics,18619,Cash on Delivery,Returned
+10097,103,2026-02-05,Clothing,3690,Easypaisa,Delivered
+10899,20,2026-02-06,Electronics,13598,JazzCash,Delivered
+11747,82,2026-02-06,Home,29707,JazzCash,Delivered
+11847,204,2026-02-06,Home,28932,Cash on Delivery,Delivered
+11439,159,2026-02-07,Home,15114,Cash on Delivery,Cancelled
+10878,66,2026-02-07,Electronics,28248,Cash on Delivery,Delivered
+10048,102,2026-02-07,Clothing,4939,Cash on Delivery,Delivered
+10321,13,2026-02-07,Home,26150,Cash on Delivery,Returned
+11016,36,2026-02-08,Clothing,6370,JazzCash,Delivered
+11797,272,2026-02-08,Books,2873,JazzCash,Delivered
+11561,246,2026-02-08,Clothing,3117,Cash on Delivery,Delivered
+10166,274,2026-02-08,Home,19725,JazzCash,Delivered
+11182,120,2026-02-09,Electronics,28961,Card,Cancelled
+10413,9,2026-02-09,Groceries,3674,Cash on Delivery,Cancelled
+10093,153,2026-02-09,Groceries,2580,Easypaisa,Delivered
+11891,283,2026-02-09,Electronics,71274,Easypaisa,Delivered
+11645,163,2026-02-10,Electronics,39898,Cash on Delivery,Delivered
+11918,288,2026-02-10,Clothing,7779,JazzCash,Delivered
+11910,162,2026-02-10,Clothing,4428,JazzCash,Delivered
+10339,218,2026-02-10,Electronics,27278,JazzCash,Delivered
+10058,242,2026-02-10,Groceries,1351,JazzCash,Delivered
+11057,273,2026-02-11,Home,4212,JazzCash,Delivered
+11489,189,2026-02-11,Groceries,714,Card,Delivered
+11630,54,2026-02-12,Clothing,6408,Easypaisa,Delivered
+11685,291,2026-02-12,Groceries,1610,Easypaisa,Cancelled
+11278,71,2026-02-12,Clothing,6557,Cash on Delivery,Delivered
+10593,85,2026-02-12,Electronics,59393,Cash on Delivery,Delivered
+10452,41,2026-02-12,Groceries,1492,Easypaisa,Delivered
+10271,14,2026-02-12,Electronics,87612,JazzCash,Delivered
+11421,262,2026-02-13,Home,3154,JazzCash,Delivered
+10068,264,2026-02-13,Groceries,2690,Cash on Delivery,Delivered
+10860,264,2026-02-14,Groceries,955,Easypaisa,Delivered
+11469,69,2026-02-14,Electronics,9004,JazzCash,Delivered
+10270,125,2026-02-14,Groceries,519,Easypaisa,Delivered
+10296,58,2026-02-14,Clothing,2957,JazzCash,Delivered
+10632,101,2026-02-14,Electronics,14170,Cash on Delivery,Delivered
+11497,107,2026-02-14,Electronics,25884,JazzCash,Delivered
+10281,253,2026-02-15,Clothing,2173,JazzCash,Delivered
+10792,204,2026-02-16,Electronics,86090,Card,Delivered
+11196,230,2026-02-16,Groceries,394,Cash on Delivery,Delivered
+11887,296,2026-02-17,Clothing,7675,Easypaisa,Delivered
+10644,169,2026-02-17,Books,1140,Easypaisa,Delivered
+11263,30,2026-02-17,Home,21218,Cash on Delivery,Delivered
+10040,144,2026-02-17,Home,29110,Cash on Delivery,Returned
+11398,183,2026-02-18,Home,10851,Cash on Delivery,Delivered
+11915,258,2026-02-18,Home,8692,Cash on Delivery,Delivered
+10801,11,2026-02-18,Home,12001,JazzCash,Delivered
+11154,117,2026-02-18,Clothing,1518,Cash on Delivery,Delivered
+10238,190,2026-02-19,Groceries,1355,Card,Delivered
+10979,111,2026-02-19,Electronics,20039,Cash on Delivery,Delivered
+10839,206,2026-02-19,Books,1930,Card,Cancelled
+10624,63,2026-02-20,Groceries,803,JazzCash,Delivered
+10978,196,2026-02-20,Groceries,3640,Easypaisa,Delivered
+10390,97,2026-02-20,Groceries,3189,Cash on Delivery,Delivered
+10951,55,2026-02-20,Groceries,2247,Cash on Delivery,Delivered
+11861,18,2026-02-20,Clothing,1508,Cash on Delivery,Delivered
+11871,13,2026-02-21,Electronics,85519,Cash on Delivery,Delivered
+10897,82,2026-02-21,Clothing,5436,Easypaisa,Delivered
+11465,1,2026-02-21,Books,1000,Cash on Delivery,Returned
+11625,84,2026-02-21,Electronics,51801,Cash on Delivery,Delivered
+11733,91,2026-02-22,Clothing,8885,Easypaisa,Delivered
+10434,179,2026-02-22,Clothing,4329,Card,Delivered
+10092,10,2026-02-22,Groceries,1987,Card,Delivered
+10320,116,2026-02-23,Clothing,8375,JazzCash,Delivered
+11397,285,2026-02-23,Home,15227,JazzCash,Delivered
+10585,22,2026-02-24,Electronics,54276,JazzCash,Delivered
+11200,202,2026-02-25,Groceries,3782,Card,Cancelled
+10322,285,2026-02-25,Books,2323,Cash on Delivery,Delivered
+10906,205,2026-02-25,Home,5767,Cash on Delivery,Delivered
+10737,142,2026-02-25,Electronics,29202,Cash on Delivery,Delivered
+11562,4,2026-02-26,Home,22045,Cash on Delivery,Delivered
+10789,228,2026-02-26,Groceries,1046,JazzCash,Delivered
+10377,142,2026-02-26,Clothing,4805,Easypaisa,Delivered
+11372,220,2026-02-26,Electronics,59900,Card,Delivered
+11939,207,2026-02-27,Books,633,JazzCash,Delivered
+10440,46,2026-02-27,Electronics,81922,Cash on Delivery,Delivered
+10755,167,2026-02-27,Home,6501,Cash on Delivery,Delivered
+11279,273,2026-02-28,Clothing,8496,Cash on Delivery,Delivered
+10247,231,2026-02-28,Books,2506,JazzCash,Delivered
+11533,121,2026-02-28,Home,23307,Cash on Delivery,Delivered
+10002,66,2026-03-01,Groceries,2672,Card,Cancelled
+11393,55,2026-03-01,Clothing,6555,Cash on Delivery,Delivered
+10345,162,2026-03-01,Electronics,35563,JazzCash,Delivered
+10287,299,2026-03-02,Groceries,1066,JazzCash,Returned
+10117,86,2026-03-02,Clothing,7221,Cash on Delivery,Delivered
+11041,52,2026-03-03,Clothing,7130,Card,Delivered
+11004,30,2026-03-04,Electronics,77588,Cash on Delivery,Delivered
+10195,37,2026-03-04,Clothing,3576,Cash on Delivery,Cancelled
+10963,282,2026-03-05,Home,4735,Card,Delivered
+11001,16,2026-03-05,Clothing,4628,Cash on Delivery,Delivered
+10535,26,2026-03-05,Home,8303,JazzCash,Delivered
+10384,67,2026-03-05,Groceries,3660,Cash on Delivery,Delivered
+10771,110,2026-03-05,Groceries,390,Cash on Delivery,Delivered
+10526,251,2026-03-06,Home,10615,Card,Delivered
+10003,275,2026-03-07,Home,12616,Cash on Delivery,Delivered
+10359,169,2026-03-08,Groceries,1873,JazzCash,Returned
+10812,17,2026-03-08,Clothing,5994,Card,Delivered
+10309,251,2026-03-09,Electronics,61126,Card,Delivered
+10517,70,2026-03-09,Clothing,3486,Card,Delivered
+10071,9,2026-03-09,Clothing,2723,JazzCash,Delivered
+11712,284,2026-03-09,Electronics,65381,JazzCash,Delivered
+11032,21,2026-03-10,Groceries,3780,Easypaisa,Delivered
+11304,17,2026-03-10,Home,7679,JazzCash,Delivered
+11866,297,2026-03-10,Groceries,2444,Card,Returned
+10991,190,2026-03-11,Clothing,6586,Cash on Delivery,Cancelled
+10284,32,2026-03-11,Electronics,88718,JazzCash,Delivered
+11984,79,2026-03-11,Clothing,8634,Card,Cancelled
+10778,133,2026-03-12,Clothing,6659,Easypaisa,Delivered
+10462,58,2026-03-12,Home,27041,Cash on Delivery,Delivered
+11701,115,2026-03-12,Groceries,351,Card,Delivered
+11921,161,2026-03-12,Electronics,82913,JazzCash,Delivered
+11958,231,2026-03-12,Books,1863,Cash on Delivery,Delivered
+11135,28,2026-03-13,Clothing,1573,JazzCash,Delivered
+11691,2,2026-03-14,Clothing,4192,Cash on Delivery,Delivered
+10599,55,2026-03-14,Home,15543,Card,Delivered
+10824,259,2026-03-15,Clothing,6119,Cash on Delivery,Delivered
+11581,268,2026-03-16,Home,19978,Cash on Delivery,Delivered
+10478,38,2026-03-16,Groceries,1976,Cash on Delivery,Delivered
+10915,42,2026-03-16,Clothing,3389,Cash on Delivery,Delivered
+11770,284,2026-03-16,Books,931,JazzCash,Delivered
+11862,251,2026-03-16,Groceries,3165,Cash on Delivery,Delivered
+10990,157,2026-03-16,Clothing,1832,Easypaisa,Delivered
+11651,144,2026-03-16,Groceries,3951,Cash on Delivery,Delivered
+11378,12,2026-03-16,Books,1585,Cash on Delivery,Delivered
+10122,258,2026-03-17,Electronics,80565,Easypaisa,Delivered
+10872,18,2026-03-18,Clothing,6702,Cash on Delivery,Delivered
+11411,44,2026-03-18,Electronics,66085,Easypaisa,Delivered
+10820,128,2026-03-18,Groceries,2515,Easypaisa,Delivered
+10250,300,2026-03-18,Clothing,3266,Easypaisa,Delivered
+10358,14,2026-03-18,Clothing,6276,Card,Delivered
+11483,31,2026-03-19,Clothing,8992,Easypaisa,Delivered
+11903,298,2026-03-19,Electronics,45717,Cash on Delivery,Delivered
+10528,199,2026-03-19,Home,29219,Card,Delivered
+11715,224,2026-03-20,Electronics,36176,JazzCash,Delivered
+10867,78,2026-03-20,Clothing,8720,Cash on Delivery,Delivered
+10905,28,2026-03-20,Electronics,89753,Cash on Delivery,Delivered
+11419,150,2026-03-21,Groceries,2291,JazzCash,Delivered
+11236,214,2026-03-21,Groceries,1604,Card,Delivered
+11382,5,2026-03-21,Electronics,44361,Cash on Delivery,Delivered
+11361,14,2026-03-21,Clothing,6632,Cash on Delivery,Delivered
+10942,294,2026-03-21,Clothing,4520,Cash on Delivery,Delivered
+11757,47,2026-03-21,Electronics,54170,Easypaisa,Delivered
+10877,292,2026-03-22,Home,12175,Cash on Delivery,Delivered
+11527,23,2026-03-22,Home,11909,Cash on Delivery,Delivered
+10551,95,2026-03-22,Home,17301,Cash on Delivery,Delivered
+10678,145,2026-03-22,Electronics,21831,Card,Delivered
+10745,1,2026-03-22,Clothing,5459,Cash on Delivery,Delivered
+10427,135,2026-03-23,Groceries,1563,Card,Delivered
+11849,243,2026-03-23,Books,802,Cash on Delivery,Delivered
+11105,38,2026-03-23,Groceries,2392,Cash on Delivery,Delivered
+10784,213,2026-03-23,Books,2361,Cash on Delivery,Delivered
+10418,156,2026-03-23,Groceries,3149,Card,Delivered
+10231,207,2026-03-25,Electronics,66157,Card,Delivered
+10748,199,2026-03-25,Books,1490,JazzCash,Delivered
+11005,110,2026-03-25,Clothing,5761,JazzCash,Delivered
+11722,249,2026-03-26,Books,2685,Cash on Delivery,Delivered
+11692,163,2026-03-26,Clothing,7684,Cash on Delivery,Delivered
+11462,151,2026-03-26,Clothing,1727,JazzCash,Delivered
+10888,137,2026-03-26,Groceries,2201,Card,Delivered
+11090,93,2026-03-26,Electronics,73787,JazzCash,Delivered
+11275,104,2026-03-27,Clothing,7779,JazzCash,Delivered
+10332,269,2026-03-27,Groceries,3594,Card,Delivered
+10893,132,2026-03-28,Groceries,2175,JazzCash,Cancelled
+10621,57,2026-03-29,Groceries,937,Cash on Delivery,Cancelled
+10707,140,2026-03-29,Groceries,1576,Easypaisa,Delivered
+11559,6,2026-03-29,Clothing,8933,Cash on Delivery,Delivered
+11183,212,2026-03-29,Groceries,2280,Easypaisa,Delivered
+11539,15,2026-03-29,Clothing,4794,Easypaisa,Delivered
+11664,141,2026-03-31,Groceries,1356,Card,Delivered
+10552,214,2026-03-31,Home,27465,Cash on Delivery,Delivered
+10519,104,2026-03-31,Clothing,5157,JazzCash,Delivered
+11726,119,2026-03-31,Electronics,12615,Card,Delivered
+10672,200,2026-03-31,Electronics,41552,Cash on Delivery,Delivered
+10164,189,2026-03-31,Clothing,8857,Easypaisa,Delivered
+11394,111,2026-04-01,Groceries,812,Cash on Delivery,Delivered
+11912,213,2026-04-01,Clothing,3055,JazzCash,Delivered
+10469,58,2026-04-01,Clothing,7260,Cash on Delivery,Delivered
+11498,242,2026-04-02,Home,11425,Cash on Delivery,Delivered
+10861,228,2026-04-02,Clothing,4535,JazzCash,Delivered
+11232,104,2026-04-03,Home,24563,Easypaisa,Delivered
+10018,243,2026-04-04,Home,26023,JazzCash,Delivered
+10254,54,2026-04-04,Home,25187,Cash on Delivery,Delivered
+11472,82,2026-04-04,Home,3472,Cash on Delivery,Delivered
+11396,265,2026-04-04,Clothing,7824,Cash on Delivery,Delivered
+10521,215,2026-04-05,Electronics,59428,Cash on Delivery,Delivered
+10823,254,2026-04-05,Groceries,2741,JazzCash,Delivered
+11118,204,2026-04-06,Home,28882,JazzCash,Delivered
+10577,13,2026-04-06,Groceries,2334,Card,Delivered
+11375,248,2026-04-06,Home,19045,Cash on Delivery,Returned
+11438,300,2026-04-06,Clothing,6424,Cash on Delivery,Delivered
+11968,147,2026-04-06,Clothing,3359,Cash on Delivery,Delivered
+10674,88,2026-04-07,Groceries,1368,Cash on Delivery,Delivered
+10971,28,2026-04-07,Clothing,4370,JazzCash,Delivered
+11524,131,2026-04-07,Groceries,2518,Cash on Delivery,Delivered
+10574,274,2026-04-07,Groceries,2003,Easypaisa,Delivered
+10089,258,2026-04-08,Home,10792,Easypaisa,Returned
+10589,47,2026-04-08,Books,1281,Card,Delivered
+10374,74,2026-04-08,Groceries,3350,Cash on Delivery,Cancelled
+10652,218,2026-04-09,Groceries,3488,Easypaisa,Delivered
+10594,293,2026-04-09,Groceries,767,Cash on Delivery,Delivered
+10256,183,2026-04-09,Clothing,5461,Cash on Delivery,Returned
+11686,221,2026-04-09,Groceries,3695,Cash on Delivery,Cancelled
+11264,132,2026-04-10,Groceries,892,Cash on Delivery,Delivered
+10970,50,2026-04-10,Groceries,2897,Cash on Delivery,Delivered
+10258,87,2026-04-11,Groceries,2542,JazzCash,Cancelled
+10751,186,2026-04-11,Electronics,46194,Easypaisa,Delivered
+11315,247,2026-04-11,Electronics,8456,Easypaisa,Delivered
+11682,2,2026-04-11,Electronics,25760,Cash on Delivery,Delivered
+10744,265,2026-04-12,Clothing,6734,Card,Delivered
+10205,272,2026-04-12,Groceries,1064,JazzCash,Delivered
+10119,52,2026-04-12,Clothing,7877,Cash on Delivery,Delivered
+10967,174,2026-04-12,Clothing,8954,JazzCash,Delivered
+11383,25,2026-04-13,Clothing,8731,Cash on Delivery,Delivered
+11374,182,2026-04-13,Home,17998,JazzCash,Cancelled
+10729,36,2026-04-13,Groceries,3241,Cash on Delivery,Delivered
+10717,169,2026-04-13,Clothing,8441,Cash on Delivery,Delivered
+10008,201,2026-04-13,Clothing,6688,Card,Returned
+10874,259,2026-04-13,Groceries,3101,Cash on Delivery,Delivered
+10109,238,2026-04-13,Clothing,5180,Card,Delivered
+10992,90,2026-04-14,Clothing,2239,Easypaisa,Delivered
+11277,24,2026-04-14,Clothing,5404,JazzCash,Delivered
+11716,135,2026-04-14,Clothing,2550,JazzCash,Delivered
+10821,271,2026-04-14,Groceries,481,Cash on Delivery,Delivered
+10664,282,2026-04-16,Groceries,617,Cash on Delivery,Delivered
+10786,169,2026-04-16,Electronics,81513,Easypaisa,Cancelled
+10458,245,2026-04-16,Home,11539,Card,Returned
+10848,81,2026-04-16,Home,16603,JazzCash,Delivered
+11501,217,2026-04-16,Groceries,1777,Cash on Delivery,Delivered
+11587,86,2026-04-17,Clothing,8445,Card,Delivered
+10105,30,2026-04-17,Electronics,36910,Easypaisa,Cancelled
+10473,90,2026-04-18,Groceries,1809,Cash on Delivery,Delivered
+10598,17,2026-04-18,Home,25059,Cash on Delivery,Delivered
+10513,74,2026-04-19,Electronics,74338,Easypaisa,Delivered
+11215,160,2026-04-19,Electronics,65327,Cash on Delivery,Delivered
+11113,132,2026-04-19,Groceries,1362,Cash on Delivery,Delivered
+11251,64,2026-04-19,Clothing,3687,JazzCash,Delivered
+10636,274,2026-04-19,Groceries,2609,Cash on Delivery,Delivered
+10183,5,2026-04-20,Electronics,72460,Easypaisa,Delivered
+10061,216,2026-04-20,Groceries,1606,Easypaisa,Delivered
+10637,72,2026-04-20,Electronics,75714,Card,Returned
+11079,41,2026-04-20,Groceries,2030,Easypaisa,Delivered
+11440,247,2026-04-23,Groceries,1448,JazzCash,Delivered
+11169,281,2026-04-23,Groceries,1791,JazzCash,Delivered
+11391,76,2026-04-23,Home,6218,Cash on Delivery,Returned
+10315,216,2026-04-23,Clothing,1532,JazzCash,Delivered
+10825,233,2026-04-24,Groceries,3415,Card,Delivered
+11165,269,2026-04-24,Groceries,3062,Card,Delivered
+11122,179,2026-04-25,Clothing,2383,JazzCash,Delivered
+11324,93,2026-04-25,Groceries,3452,JazzCash,Delivered
+11409,139,2026-04-25,Books,682,JazzCash,Delivered
+11056,267,2026-04-26,Clothing,5149,Cash on Delivery,Delivered
+10200,74,2026-04-26,Books,939,Easypaisa,Delivered
+11373,81,2026-04-26,Groceries,786,Card,Delivered
+11022,61,2026-04-26,Groceries,1792,Card,Delivered
+11207,299,2026-04-27,Clothing,2965,Easypaisa,Delivered
+11719,249,2026-04-27,Electronics,72059,Cash on Delivery,Delivered
+11741,271,2026-04-27,Groceries,3456,Cash on Delivery,Delivered
+10223,41,2026-04-28,Electronics,28824,Card,Delivered
+10741,255,2026-04-28,Electronics,65884,Cash on Delivery,Delivered
+11031,300,2026-04-28,Electronics,85304,Cash on Delivery,Delivered
+10543,254,2026-04-29,Groceries,421,Cash on Delivery,Delivered
+10703,116,2026-04-29,Groceries,2486,Cash on Delivery,Delivered
+11927,203,2026-04-29,Electronics,64946,Cash on Delivery,Delivered
+11572,203,2026-04-29,Groceries,1942,Cash on Delivery,Delivered
+11526,230,2026-04-30,Clothing,5674,Easypaisa,Delivered
+11306,30,2026-04-30,Electronics,25219,Cash on Delivery,Delivered
+11286,146,2026-05-01,Clothing,4385,JazzCash,Delivered
+11128,179,2026-05-01,Groceries,2803,Easypaisa,Returned
+11648,61,2026-05-01,Home,6087,Cash on Delivery,Delivered
+11774,194,2026-05-01,Books,2630,Card,Delivered
+11765,84,2026-05-01,Electronics,34729,JazzCash,Delivered
+10405,39,2026-05-02,Books,1096,Easypaisa,Delivered
+11766,41,2026-05-03,Home,19015,JazzCash,Cancelled
+11083,8,2026-05-04,Groceries,3804,Easypaisa,Delivered
+11609,107,2026-05-05,Clothing,8606,Easypaisa,Delivered
+10465,167,2026-05-05,Electronics,21853,Cash on Delivery,Delivered
+10029,226,2026-05-05,Clothing,6065,JazzCash,Delivered
+10697,96,2026-05-06,Home,22682,JazzCash,Delivered
+10112,254,2026-05-06,Electronics,36727,Card,Delivered
+10633,96,2026-05-07,Books,2167,Cash on Delivery,Delivered
+10667,216,2026-05-08,Electronics,21096,Cash on Delivery,Delivered
+10941,40,2026-05-08,Home,5772,Card,Delivered
+10609,147,2026-05-08,Groceries,1529,JazzCash,Delivered
+10471,288,2026-05-08,Clothing,7303,Cash on Delivery,Delivered
+10997,135,2026-05-08,Electronics,36632,Easypaisa,Delivered
+11505,80,2026-05-08,Electronics,86461,Card,Delivered
+11030,158,2026-05-09,Home,18632,Cash on Delivery,Delivered
+10765,119,2026-05-10,Books,1371,Cash on Delivery,Cancelled
+10152,190,2026-05-10,Home,15550,JazzCash,Delivered
+11455,269,2026-05-10,Books,2247,Easypaisa,Delivered
+11340,190,2026-05-11,Books,2251,Easypaisa,Delivered
+10503,266,2026-05-11,Home,23505,JazzCash,Delivered
+10961,109,2026-05-11,Groceries,3819,Card,Delivered
+11156,155,2026-05-11,Clothing,2924,Cash on Delivery,Delivered
+11615,163,2026-05-11,Home,2496,JazzCash,Cancelled
+10365,74,2026-05-12,Clothing,8750,JazzCash,Delivered
+10461,229,2026-05-12,Groceries,2784,Cash on Delivery,Delivered
+10584,84,2026-05-12,Electronics,61516,JazzCash,Delivered
+10368,185,2026-05-13,Clothing,8859,JazzCash,Delivered
+11145,26,2026-05-14,Home,6369,Card,Delivered
+10131,101,2026-05-15,Books,2330,Cash on Delivery,Delivered
+10565,17,2026-05-15,Electronics,18942,Cash on Delivery,Delivered
+10706,234,2026-05-15,Clothing,6536,JazzCash,Delivered
+11445,4,2026-05-16,Clothing,1999,Card,Returned
+10700,247,2026-05-17,Clothing,7752,JazzCash,Delivered
+10067,92,2026-05-18,Electronics,53266,Cash on Delivery,Delivered
+11933,94,2026-05-18,Clothing,8350,Cash on Delivery,Delivered
+10030,49,2026-05-18,Clothing,6068,Easypaisa,Delivered
+11050,37,2026-05-19,Groceries,3624,Cash on Delivery,Delivered
+11834,30,2026-05-19,Electronics,17491,Cash on Delivery,Delivered
+10306,138,2026-05-19,Clothing,2546,JazzCash,Delivered
+11597,220,2026-05-19,Clothing,6428,Card,Delivered
+10015,278,2026-05-20,Home,7150,Easypaisa,Delivered
+11892,154,2026-05-20,Electronics,50378,Easypaisa,Delivered
+10488,91,2026-05-20,Groceries,919,Card,Delivered
+11897,210,2026-05-21,Home,23101,JazzCash,Returned
+10051,134,2026-05-21,Clothing,6233,Card,Delivered
+11146,264,2026-05-21,Home,4352,JazzCash,Delivered
+10983,239,2026-05-21,Home,5220,Card,Delivered
+11174,135,2026-05-22,Groceries,2159,JazzCash,Delivered
+10065,132,2026-05-22,Home,17120,Card,Returned
+10579,67,2026-05-22,Home,24810,JazzCash,Returned
+10070,281,2026-05-22,Groceries,3909,Cash on Delivery,Delivered
+11904,55,2026-05-23,Clothing,8519,Cash on Delivery,Delivered
+11261,239,2026-05-23,Groceries,3362,Card,Delivered
+11453,121,2026-05-23,Home,7463,Cash on Delivery,Delivered
+10614,207,2026-05-24,Groceries,2097,Cash on Delivery,Delivered
+11003,231,2026-05-24,Electronics,78887,Cash on Delivery,Returned
+11354,240,2026-05-24,Clothing,7458,Cash on Delivery,Delivered
+10052,59,2026-05-25,Home,17927,Card,Delivered
+11363,269,2026-05-25,Groceries,2404,JazzCash,Delivered
+10407,194,2026-05-25,Groceries,2976,Cash on Delivery,Delivered
+11061,228,2026-05-25,Clothing,2133,JazzCash,Delivered
+11855,180,2026-05-25,Clothing,7783,Cash on Delivery,Delivered
+11769,85,2026-05-27,Groceries,3303,JazzCash,Delivered
+11659,281,2026-05-27,Groceries,3610,Cash on Delivery,Delivered
+11857,295,2026-05-27,Electronics,8406,Cash on Delivery,Delivered
+11808,173,2026-05-28,Groceries,2889,Cash on Delivery,Returned
+10683,36,2026-05-28,Groceries,960,Cash on Delivery,Returned
+10400,10,2026-05-28,Electronics,44750,Easypaisa,Delivered
+11884,237,2026-05-29,Books,2088,Cash on Delivery,Delivered
+11818,100,2026-05-30,Home,10547,Cash on Delivery,Returned
+10770,300,2026-05-30,Electronics,18753,Easypaisa,Delivered
+10701,46,2026-05-30,Clothing,1770,Easypaisa,Delivered
+11203,23,2026-05-30,Electronics,17047,Cash on Delivery,Delivered
+10190,1,2026-05-30,Home,24640,JazzCash,Returned
+10293,181,2026-05-30,Home,8824,Cash on Delivery,Delivered
+11311,42,2026-05-31,Clothing,4054,JazzCash,Delivered
+10364,235,2026-05-31,Clothing,4293,Easypaisa,Delivered
+10411,233,2026-05-31,Groceries,3735,Cash on Delivery,Delivered
+10230,127,2026-06-01,Home,12080,Cash on Delivery,Delivered
+11021,230,2026-06-01,Electronics,10206,Cash on Delivery,Delivered
+10926,43,2026-06-01,Books,1540,Cash on Delivery,Delivered
+11745,126,2026-06-01,Books,773,Card,Delivered
+11890,156,2026-06-02,Groceries,1759,Cash on Delivery,Delivered
+11360,11,2026-06-02,Home,6969,Card,Delivered
+11345,145,2026-06-02,Clothing,2097,JazzCash,Delivered
+11541,145,2026-06-03,Electronics,49660,Cash on Delivery,Delivered
+10286,82,2026-06-03,Groceries,2330,Cash on Delivery,Delivered
+11510,73,2026-06-04,Groceries,2518,Card,Delivered
+10989,158,2026-06-04,Groceries,1961,JazzCash,Delivered
+11709,81,2026-06-04,Home,3499,Cash on Delivery,Delivered
+11750,109,2026-06-05,Clothing,7522,Cash on Delivery,Delivered
+10025,180,2026-06-05,Groceries,557,Card,Delivered
+10597,113,2026-06-06,Electronics,14167,Cash on Delivery,Delivered
+11334,264,2026-06-07,Clothing,8354,Cash on Delivery,Delivered
+10815,150,2026-06-08,Books,627,Cash on Delivery,Delivered
+10350,156,2026-06-09,Groceries,1321,Cash on Delivery,Delivered
+10505,137,2026-06-09,Groceries,1743,Cash on Delivery,Delivered
+11964,274,2026-06-09,Home,21496,Cash on Delivery,Delivered
+10933,93,2026-06-10,Clothing,4588,Card,Delivered
+11515,63,2026-06-10,Clothing,2311,Cash on Delivery,Delivered
+10896,164,2026-06-10,Groceries,3267,Easypaisa,Delivered
+10939,113,2026-06-11,Groceries,2437,Easypaisa,Delivered
+11181,43,2026-06-11,Clothing,3351,Cash on Delivery,Delivered
+10470,291,2026-06-11,Home,29971,Cash on Delivery,Returned
+10012,122,2026-06-12,Home,5797,Card,Delivered
+11900,152,2026-06-12,Groceries,2497,Cash on Delivery,Delivered
+10904,299,2026-06-12,Groceries,3848,JazzCash,Delivered
+10334,124,2026-06-13,Books,2649,Cash on Delivery,Delivered
+11444,68,2026-06-13,Home,24864,Card,Delivered
+11905,15,2026-06-13,Clothing,2479,Cash on Delivery,Cancelled
+11699,220,2026-06-13,Groceries,1850,Easypaisa,Delivered
+11042,260,2026-06-13,Clothing,1596,Cash on Delivery,Delivered
+11670,104,2026-06-13,Clothing,5160,Cash on Delivery,Delivered
+11459,119,2026-06-14,Books,941,JazzCash,Delivered
+11617,195,2026-06-14,Groceries,3113,Cash on Delivery,Delivered
+11301,63,2026-06-14,Home,3039,Card,Delivered
+10069,251,2026-06-14,Clothing,2098,Card,Returned
+11221,89,2026-06-14,Groceries,3844,Card,Delivered
+10460,77,2026-06-15,Electronics,18217,Cash on Delivery,Delivered
+10336,153,2026-06-15,Electronics,57491,Cash on Delivery,Returned
+10539,51,2026-06-15,Electronics,52523,Cash on Delivery,Delivered
+11102,61,2026-06-16,Groceries,826,Easypaisa,Delivered
+11758,223,2026-06-16,Groceries,596,Card,Delivered
+11705,61,2026-06-17,Clothing,5641,JazzCash,Delivered
+11087,197,2026-06-17,Groceries,3057,Cash on Delivery,Delivered
+10381,89,2026-06-17,Home,5009,JazzCash,Delivered
+11481,17,2026-06-17,Home,5368,Cash on Delivery,Delivered
+11139,117,2026-06-17,Electronics,79171,Cash on Delivery,Delivered
+10658,262,2026-06-19,Electronics,22298,Cash on Delivery,Delivered
+11258,252,2026-06-19,Clothing,5047,Cash on Delivery,Cancelled
+11153,48,2026-06-19,Electronics,59108,Card,Delivered
+11840,224,2026-06-19,Electronics,49612,Card,Delivered
+11653,295,2026-06-20,Electronics,44646,Cash on Delivery,Delivered
+11047,241,2026-06-20,Electronics,47281,Easypaisa,Delivered
+11543,201,2026-06-20,Groceries,2549,Cash on Delivery,Delivered
+11591,15,2026-06-20,Electronics,72493,Easypaisa,Delivered
+10921,12,2026-06-20,Home,25150,Cash on Delivery,Delivered
+11868,151,2026-06-20,Groceries,3544,Easypaisa,Cancelled
+11815,75,2026-06-21,Home,13201,JazzCash,Cancelled
+10361,248,2026-06-21,Books,1589,JazzCash,Delivered
+11870,114,2026-06-22,Clothing,4969,Cash on Delivery,Delivered
+11193,115,2026-06-22,Electronics,83448,Cash on Delivery,Delivered
+11619,274,2026-06-22,Groceries,2446,Cash on Delivery,Delivered
+10842,75,2026-06-22,Clothing,6355,JazzCash,Returned
+10780,114,2026-06-23,Books,1170,Cash on Delivery,Returned
+10386,1,2026-06-23,Electronics,22137,Card,Delivered
+10762,29,2026-06-23,Electronics,75274,Cash on Delivery,Returned
+10222,187,2026-06-24,Electronics,58405,Easypaisa,Delivered
+10181,210,2026-06-24,Groceries,2771,Card,Delivered
+10541,117,2026-06-24,Groceries,798,JazzCash,Delivered
+10671,184,2026-06-24,Home,26622,JazzCash,Delivered
+11568,54,2026-06-24,Books,2860,Cash on Delivery,Delivered
+11839,263,2026-06-25,Groceries,2366,JazzCash,Delivered
+10218,287,2026-06-25,Books,622,JazzCash,Delivered
+10376,300,2026-06-26,Home,26043,Easypaisa,Cancelled
+11655,27,2026-06-26,Groceries,537,Card,Delivered
+11208,254,2026-06-26,Groceries,3917,JazzCash,Delivered
+11850,109,2026-06-26,Clothing,8243,Card,Delivered
+10060,200,2026-06-26,Clothing,3863,JazzCash,Delivered
+10044,10,2026-06-26,Groceries,3807,Card,Delivered
+10508,166,2026-06-27,Books,1031,Card,Delivered
+10081,238,2026-06-27,Clothing,3660,Card,Delivered
+11091,58,2026-06-27,Clothing,6362,Cash on Delivery,Returned
+11271,39,2026-06-28,Clothing,7993,Cash on Delivery,Delivered
+11152,129,2026-06-28,Groceries,3073,Cash on Delivery,Returned
+10251,70,2026-06-28,Groceries,1525,Cash on Delivery,Delivered
+10185,280,2026-06-28,Home,9731,JazzCash,Delivered
+11698,178,2026-06-28,Clothing,2287,Cash on Delivery,Delivered
+11883,238,2026-06-29,Books,1747,Cash on Delivery,Delivered
+11502,259,2026-06-30,Electronics,35859,Cash on Delivery,Delivered
+11724,30,2026-06-30,Groceries,648,Card,Delivered
+10210,291,2026-07-01,Electronics,18325,Cash on Delivery,Delivered
+11554,217,2026-07-01,Groceries,1855,JazzCash,Delivered
+11754,254,2026-07-02,Electronics,18687,JazzCash,Delivered
+11843,61,2026-07-02,Clothing,8944,Card,Delivered
+10308,281,2026-07-02,Clothing,2031,Cash on Delivery,Delivered
+11494,91,2026-07-02,Groceries,2786,JazzCash,Delivered
+11626,77,2026-07-03,Electronics,59547,Cash on Delivery,Delivered
+10476,176,2026-07-03,Clothing,7150,Cash on Delivery,Delivered
+10243,220,2026-07-03,Clothing,5751,Cash on Delivery,Delivered
+11265,84,2026-07-03,Groceries,3094,JazzCash,Delivered
+11783,94,2026-07-03,Clothing,6111,Card,Delivered
+10857,35,2026-07-03,Electronics,62741,Easypaisa,Delivered
+10669,86,2026-07-04,Books,1466,JazzCash,Delivered
+10572,141,2026-07-04,Clothing,7702,Cash on Delivery,Cancelled
+11436,97,2026-07-04,Groceries,3179,Cash on Delivery,Delivered
+10087,157,2026-07-04,Electronics,66489,JazzCash,Returned
+11872,220,2026-07-04,Groceries,1051,Card,Delivered
+10772,79,2026-07-05,Electronics,89935,Cash on Delivery,Delivered
+10337,113,2026-07-06,Books,1060,Easypaisa,Cancelled
+10323,294,2026-07-06,Clothing,5942,Easypaisa,Delivered
+10352,141,2026-07-06,Electronics,9348,Card,Returned
+10919,20,2026-07-06,Clothing,5437,Card,Delivered
+10114,284,2026-07-06,Electronics,77056,Cash on Delivery,Delivered
+10023,265,2026-07-06,Home,28676,Card,Delivered
+10885,41,2026-07-07,Groceries,2786,JazzCash,Delivered
+10399,180,2026-07-07,Groceries,1420,Cash on Delivery,Delivered
+11784,62,2026-07-07,Electronics,56203,Cash on Delivery,Delivered
+10913,269,2026-07-07,Groceries,2030,JazzCash,Returned
+11838,273,2026-07-08,Electronics,71407,Cash on Delivery,Delivered
+10850,168,2026-07-08,Home,11112,JazzCash,Delivered
+11167,144,2026-07-08,Home,8933,Card,Delivered
+11416,224,2026-07-09,Clothing,4114,Cash on Delivery,Delivered
+10743,16,2026-07-09,Books,2349,Cash on Delivery,Delivered
+10807,268,2026-07-09,Clothing,7856,Cash on Delivery,Delivered
+10879,222,2026-07-10,Home,27812,Easypaisa,Delivered
+10868,209,2026-07-10,Clothing,6552,JazzCash,Delivered
+11159,64,2026-07-11,Clothing,8935,Cash on Delivery,Delivered
+11132,117,2026-07-11,Groceries,2613,Easypaisa,Delivered
+11552,266,2026-07-11,Groceries,839,JazzCash,Cancelled
+11714,97,2026-07-11,Home,18034,Card,Cancelled
+10959,160,2026-07-11,Home,6252,Cash on Delivery,Delivered
+10773,213,2026-07-11,Clothing,2755,JazzCash,Delivered
+11749,151,2026-07-12,Clothing,4465,Easypaisa,Delivered
+10608,92,2026-07-13,Electronics,24832,Cash on Delivery,Delivered
+10273,27,2026-07-13,Books,1327,JazzCash,Delivered
+10146,242,2026-07-13,Groceries,3632,JazzCash,Delivered
+11037,54,2026-07-13,Books,1217,Cash on Delivery,Delivered
+10595,225,2026-07-14,Groceries,2162,Cash on Delivery,Delivered
+10085,205,2026-07-14,Groceries,1141,Easypaisa,Delivered
+11138,192,2026-07-14,Clothing,3092,Cash on Delivery,Delivered
+10623,50,2026-07-14,Groceries,2503,Cash on Delivery,Returned
+10711,179,2026-07-15,Home,4319,Cash on Delivery,Cancelled
+11743,263,2026-07-15,Clothing,3156,Card,Delivered
+10001,67,2026-07-15,Groceries,1122,Cash on Delivery,Delivered
+11627,256,2026-07-16,Groceries,2404,Cash on Delivery,Delivered
+10300,15,2026-07-16,Electronics,33502,JazzCash,Delivered
+10098,191,2026-07-16,Clothing,1595,Easypaisa,Returned
+11482,200,2026-07-16,Clothing,5282,Cash on Delivery,Delivered
+10976,280,2026-07-16,Books,2039,Cash on Delivery,Delivered
+11223,149,2026-07-17,Electronics,37948,Cash on Delivery,Delivered
+11947,46,2026-07-17,Electronics,21839,Cash on Delivery,Delivered
+10027,132,2026-07-17,Groceries,1372,Cash on Delivery,Delivered
+10726,82,2026-07-17,Clothing,1540,JazzCash,Delivered
+11732,166,2026-07-17,Books,2844,Easypaisa,Delivered
+10837,7,2026-07-17,Clothing,3227,Card,Returned
+11325,96,2026-07-17,Clothing,5993,Card,Delivered
+11782,247,2026-07-18,Clothing,2958,Card,Delivered
+10946,271,2026-07-18,Clothing,3297,Cash on Delivery,Delivered
+11403,107,2026-07-19,Groceries,3143,Card,Delivered
+11309,223,2026-07-19,Books,731,Card,Delivered
+11786,35,2026-07-19,Books,1394,JazzCash,Delivered
+11731,122,2026-07-20,Clothing,8314,Card,Delivered
+11931,266,2026-07-20,Groceries,2045,Easypaisa,Delivered
+10859,231,2026-07-20,Home,9520,Cash on Delivery,Delivered
+11337,141,2026-07-21,Clothing,6366,Cash on Delivery,Delivered
+10775,188,2026-07-21,Groceries,527,Cash on Delivery,Returned
+10033,114,2026-07-21,Clothing,4911,Cash on Delivery,Delivered
+11300,280,2026-07-21,Clothing,5524,Easypaisa,Delivered
+11993,259,2026-07-21,Home,28079,Card,Delivered
+11578,194,2026-07-21,Electronics,47441,Card,Returned
+10917,39,2026-07-22,Electronics,42368,Card,Delivered
+11935,76,2026-07-22,Home,19219,Cash on Delivery,Delivered
+10307,229,2026-07-22,Electronics,32545,Easypaisa,Delivered
+10310,188,2026-07-22,Groceries,2987,JazzCash,Delivered
+11162,128,2026-07-22,Clothing,3031,Cash on Delivery,Delivered
+10482,22,2026-07-23,Clothing,8755,Cash on Delivery,Returned
+11097,70,2026-07-23,Clothing,7423,Cash on Delivery,Delivered
+10704,291,2026-07-23,Books,2540,Cash on Delivery,Delivered
+11180,33,2026-07-23,Electronics,78050,Cash on Delivery,Delivered
+11811,29,2026-07-23,Home,9613,JazzCash,Cancelled
+10429,279,2026-07-24,Clothing,3747,Cash on Delivery,Delivered
+11323,265,2026-07-24,Books,911,Cash on Delivery,Delivered
+11268,168,2026-07-25,Clothing,1791,Card,Delivered
+10242,53,2026-07-25,Electronics,43609,JazzCash,Delivered
+10301,57,2026-07-25,Groceries,1555,Cash on Delivery,Delivered
+11616,128,2026-07-25,Groceries,3116,Easypaisa,Delivered
+10366,144,2026-07-25,Home,7470,Cash on Delivery,Delivered
+10691,71,2026-07-25,Groceries,3224,Card,Delivered
+10167,145,2026-07-26,Clothing,2175,Easypaisa,Returned
+10973,264,2026-07-26,Home,10852,Cash on Delivery,Delivered
+10984,248,2026-07-26,Home,6297,Card,Delivered
+10261,166,2026-07-26,Home,8103,Cash on Delivery,Delivered
+10662,253,2026-07-26,Groceries,1867,Cash on Delivery,Returned
+10389,154,2026-07-26,Clothing,3152,Cash on Delivery,Delivered
+11787,27,2026-07-27,Electronics,83497,JazzCash,Delivered
+11632,291,2026-07-27,Groceries,3238,Cash on Delivery,Delivered
+11738,127,2026-07-27,Groceries,2958,Easypaisa,Delivered
+11962,75,2026-07-27,Clothing,2436,Cash on Delivery,Delivered
+10259,94,2026-07-28,Electronics,35544,JazzCash,Delivered
+10920,131,2026-07-29,Clothing,7009,Cash on Delivery,Delivered
+10855,249,2026-07-29,Groceries,1089,JazzCash,Returned
+11161,180,2026-07-29,Clothing,6126,Cash on Delivery,Returned
+10653,174,2026-07-29,Clothing,3695,Card,Delivered
+11442,255,2026-07-30,Clothing,6232,JazzCash,Delivered
+10155,187,2026-07-31,Electronics,33792,Card,Delivered
+11678,121,2026-07-31,Home,25319,Card,Delivered
+11235,185,2026-07-31,Clothing,5173,Cash on Delivery,Delivered
+11879,134,2026-07-31,Home,13426,JazzCash,Delivered
+11858,240,2026-07-31,Clothing,7779,Cash on Delivery,Delivered
+10433,216,2026-08-01,Electronics,63144,Cash on Delivery,Delivered
+11082,172,2026-08-01,Groceries,986,Easypaisa,Delivered
+11598,227,2026-08-01,Clothing,6235,Card,Delivered
+11040,14,2026-08-02,Groceries,443,JazzCash,Delivered
+10994,121,2026-08-02,Clothing,6095,Card,Delivered
+10028,268,2026-08-02,Groceries,1018,Cash on Delivery,Delivered
+11666,273,2026-08-02,Groceries,3723,Cash on Delivery,Delivered
+11895,143,2026-08-02,Groceries,1023,JazzCash,Delivered
+10949,93,2026-08-03,Clothing,6107,Card,Returned
+10099,63,2026-08-03,Groceries,679,Card,Delivered
+11376,14,2026-08-03,Books,2381,Cash on Delivery,Delivered
+11831,298,2026-08-03,Clothing,3082,Easypaisa,Delivered
+11814,70,2026-08-03,Clothing,3596,Cash on Delivery,Delivered
+10171,119,2026-08-03,Clothing,7926,Cash on Delivery,Delivered
+11423,20,2026-08-04,Books,2450,JazzCash,Delivered
+10403,173,2026-08-04,Clothing,6531,JazzCash,Delivered
+11564,40,2026-08-04,Home,6587,Cash on Delivery,Delivered
+11415,144,2026-08-04,Home,12853,JazzCash,Cancelled
+11823,188,2026-08-04,Groceries,1585,JazzCash,Delivered
+10909,117,2026-08-04,Groceries,3412,Card,Delivered
+11024,113,2026-08-05,Home,10579,Easypaisa,Returned
+10420,273,2026-08-05,Clothing,1942,Card,Delivered
+11218,285,2026-08-05,Electronics,49462,Card,Delivered
+11759,94,2026-08-07,Groceries,1063,Easypaisa,Delivered
+11025,179,2026-08-07,Groceries,3886,JazzCash,Delivered
+11318,220,2026-08-08,Clothing,8054,Cash on Delivery,Delivered
+10533,24,2026-08-08,Books,2437,Cash on Delivery,Delivered
+11457,241,2026-08-08,Groceries,1618,JazzCash,Delivered
+10104,200,2026-08-09,Electronics,64223,JazzCash,Delivered
+11576,138,2026-08-09,Clothing,7144,Cash on Delivery,Returned
+11242,42,2026-08-09,Clothing,5006,Cash on Delivery,Delivered
+10676,259,2026-08-09,Home,3229,Cash on Delivery,Delivered
+10654,55,2026-08-10,Home,29884,Card,Delivered
+11832,55,2026-08-10,Electronics,30041,Card,Delivered
+11963,287,2026-08-11,Home,10758,Card,Delivered
+11064,97,2026-08-11,Groceries,3009,Cash on Delivery,Delivered
+10616,6,2026-08-12,Clothing,8774,JazzCash,Delivered
+10568,281,2026-08-12,Clothing,6664,Cash on Delivery,Delivered
+10787,122,2026-08-12,Home,19709,JazzCash,Delivered
+10014,276,2026-08-12,Clothing,3938,Card,Delivered
+10134,134,2026-08-12,Clothing,8358,Card,Returned
+11742,146,2026-08-13,Groceries,2693,JazzCash,Delivered
+10077,70,2026-08-13,Clothing,3854,Card,Delivered
+10557,226,2026-08-13,Clothing,5664,JazzCash,Delivered
+10108,77,2026-08-13,Electronics,38895,JazzCash,Delivered
+11493,100,2026-08-13,Home,22057,Easypaisa,Delivered
+10529,85,2026-08-14,Clothing,2884,JazzCash,Delivered
+10055,185,2026-08-14,Home,26801,JazzCash,Returned
+11830,207,2026-08-14,Groceries,594,Cash on Delivery,Delivered
+11661,24,2026-08-14,Electronics,78687,Easypaisa,Delivered
+11190,216,2026-08-15,Clothing,8375,Card,Delivered
+11406,74,2026-08-15,Groceries,2144,Easypaisa,Delivered
+10137,300,2026-08-16,Books,450,Easypaisa,Delivered
+11028,269,2026-08-16,Groceries,3764,JazzCash,Cancelled
+10927,191,2026-08-16,Groceries,1169,Cash on Delivery,Delivered
+10560,182,2026-08-18,Home,15399,JazzCash,Returned
+11575,164,2026-08-19,Groceries,2090,JazzCash,Delivered
+11938,20,2026-08-20,Home,10051,JazzCash,Delivered
+10559,298,2026-08-20,Electronics,54246,Card,Delivered
+10588,130,2026-08-20,Clothing,2268,Cash on Delivery,Delivered
+11725,114,2026-08-21,Clothing,6817,Cash on Delivery,Delivered
+11990,216,2026-08-21,Home,3081,Easypaisa,Delivered
+11379,43,2026-08-21,Clothing,3845,Easypaisa,Delivered
+11112,72,2026-08-22,Clothing,4913,Card,Delivered
+11015,80,2026-08-22,Books,826,Cash on Delivery,Delivered
+11996,277,2026-08-23,Electronics,75969,JazzCash,Delivered
+11149,88,2026-08-23,Clothing,6327,JazzCash,Delivered
+10266,277,2026-08-23,Clothing,5444,Card,Delivered
+10587,53,2026-08-23,Electronics,73658,JazzCash,Delivered
+11717,240,2026-08-24,Groceries,2710,Cash on Delivery,Delivered
+10785,115,2026-08-24,Clothing,5463,JazzCash,Returned
+11244,274,2026-08-24,Books,1446,Cash on Delivery,Delivered
+10827,202,2026-08-24,Clothing,6149,Card,Returned
+11881,44,2026-08-24,Electronics,57791,JazzCash,Delivered
+11513,263,2026-08-24,Electronics,88428,Card,Delivered
+11556,64,2026-08-25,Groceries,1132,Cash on Delivery,Delivered
+10809,83,2026-08-25,Groceries,3851,Cash on Delivery,Delivered
+11017,35,2026-08-26,Clothing,1533,JazzCash,Delivered
+10075,156,2026-08-26,Groceries,3543,Card,Delivered
+11549,115,2026-08-26,Electronics,66016,JazzCash,Delivered
+10240,95,2026-08-26,Books,2683,Easypaisa,Delivered
+10466,176,2026-08-26,Electronics,86279,Easypaisa,Cancelled
+10172,264,2026-08-27,Clothing,3700,Easypaisa,Delivered
+10875,193,2026-08-27,Groceries,3532,Easypaisa,Delivered
+11595,80,2026-08-28,Clothing,5737,JazzCash,Delivered
+10656,97,2026-08-28,Home,3268,Card,Delivered
+11875,291,2026-08-28,Books,817,JazzCash,Delivered
+10130,272,2026-08-29,Clothing,5484,Cash on Delivery,Delivered
+10808,89,2026-08-29,Groceries,1211,Card,Delivered
+11053,204,2026-08-29,Electronics,78855,Cash on Delivery,Delivered
+10928,126,2026-08-29,Home,11307,Easypaisa,Delivered
+11127,112,2026-08-29,Clothing,4264,Card,Delivered
+11940,28,2026-08-29,Books,2089,Easypaisa,Delivered
+11006,222,2026-08-29,Clothing,8043,Card,Delivered
+10355,168,2026-08-30,Home,11291,Card,Returned
+11602,284,2026-08-30,Groceries,3740,Card,Delivered
+11055,173,2026-08-30,Clothing,3969,JazzCash,Returned
+11054,27,2026-08-31,Clothing,6800,JazzCash,Delivered
+11538,50,2026-08-31,Electronics,77156,Card,Delivered
+10522,79,2026-09-01,Books,2982,Easypaisa,Delivered
+11542,248,2026-09-01,Clothing,5346,JazzCash,Cancelled
+10147,263,2026-09-02,Electronics,78691,Cash on Delivery,Cancelled
+11521,272,2026-09-02,Groceries,558,Card,Delivered
+10224,80,2026-09-02,Home,3553,Easypaisa,Delivered
+10638,162,2026-09-03,Groceries,3716,Card,Returned
+11117,257,2026-09-03,Groceries,883,Cash on Delivery,Delivered
+10601,109,2026-09-03,Electronics,78483,JazzCash,Delivered
+10518,58,2026-09-03,Groceries,3134,Easypaisa,Delivered
+11344,18,2026-09-03,Electronics,14123,Card,Delivered
+10611,159,2026-09-04,Groceries,3860,Cash on Delivery,Delivered
+11970,210,2026-09-04,Books,2101,Cash on Delivery,Delivered
+11689,112,2026-09-04,Groceries,1760,Cash on Delivery,Delivered
+11553,18,2026-09-04,Books,2100,Easypaisa,Delivered
+10150,298,2026-09-04,Clothing,5515,Cash on Delivery,Delivered
+10668,31,2026-09-04,Groceries,3215,Cash on Delivery,Delivered
+11987,152,2026-09-04,Clothing,4570,Cash on Delivery,Delivered
+11171,247,2026-09-04,Home,24946,Card,Delivered
+10813,155,2026-09-05,Electronics,70816,Easypaisa,Delivered
+10649,189,2026-09-05,Books,2833,Easypaisa,Delivered
+11084,218,2026-09-05,Groceries,3311,Cash on Delivery,Returned
+10527,99,2026-09-06,Clothing,8823,Cash on Delivery,Delivered
+10252,168,2026-09-06,Home,4117,Card,Delivered
+10769,40,2026-09-06,Clothing,7487,JazzCash,Delivered
+11249,296,2026-09-06,Electronics,49058,Cash on Delivery,Delivered
+11929,91,2026-09-07,Home,18582,Easypaisa,Delivered
+10426,12,2026-09-08,Clothing,3508,Easypaisa,Delivered
+10143,221,2026-09-08,Books,2334,Card,Delivered
+11667,214,2026-09-10,Groceries,3250,JazzCash,Delivered
+11435,2,2026-09-10,Clothing,7230,Easypaisa,Delivered
+11227,173,2026-09-10,Clothing,7326,Cash on Delivery,Delivered
+11889,42,2026-09-10,Electronics,26470,Card,Delivered
+10378,100,2026-09-10,Clothing,6394,JazzCash,Delivered
+10800,258,2026-09-10,Clothing,8877,Easypaisa,Delivered
+10781,35,2026-09-11,Clothing,1559,JazzCash,Delivered
+11289,82,2026-09-11,Electronics,41511,Cash on Delivery,Delivered
+10955,222,2026-09-12,Books,428,Easypaisa,Delivered
+11137,113,2026-09-13,Home,11761,Cash on Delivery,Delivered
+10318,21,2026-09-13,Clothing,4865,Cash on Delivery,Delivered
+10779,71,2026-09-13,Books,2593,JazzCash,Delivered
+11333,93,2026-09-13,Groceries,1059,Cash on Delivery,Delivered
+10977,135,2026-09-13,Clothing,5683,Card,Delivered
+11351,169,2026-09-13,Groceries,2207,Easypaisa,Delivered
+11801,247,2026-09-13,Clothing,3046,Cash on Delivery,Delivered
+11285,242,2026-09-13,Groceries,400,Easypaisa,Delivered
+10106,185,2026-09-14,Clothing,5904,Easypaisa,Delivered
+11608,144,2026-09-14,Home,29260,Cash on Delivery,Delivered
+11859,27,2026-09-14,Electronics,11478,Easypaisa,Delivered
+10118,4,2026-09-14,Groceries,1661,Card,Delivered
+10853,238,2026-09-15,Clothing,8511,JazzCash,Delivered
+10187,58,2026-09-16,Clothing,6213,Cash on Delivery,Delivered
+11894,29,2026-09-16,Clothing,7263,JazzCash,Delivered
+10480,156,2026-09-16,Home,17208,Easypaisa,Returned
+11123,113,2026-09-16,Home,8414,Easypaisa,Delivered
+10439,222,2026-09-17,Groceries,1144,Cash on Delivery,Delivered
+11158,133,2026-09-18,Clothing,2256,JazzCash,Delivered
+11247,138,2026-09-18,Clothing,7493,Cash on Delivery,Delivered
+10248,221,2026-09-18,Groceries,649,Easypaisa,Delivered
+10467,29,2026-09-19,Home,5704,Cash on Delivery,Delivered
+10135,187,2026-09-19,Electronics,72051,Card,Delivered
+10342,291,2026-09-20,Electronics,67754,JazzCash,Delivered
+10360,46,2026-09-20,Books,2779,JazzCash,Delivered
+11775,57,2026-09-21,Books,1034,Card,Delivered
+11018,299,2026-09-22,Electronics,62476,Cash on Delivery,Delivered
+11248,76,2026-09-22,Groceries,3559,Card,Delivered
+10972,245,2026-09-22,Clothing,7865,Cash on Delivery,Delivered
+10680,18,2026-09-22,Clothing,6556,Card,Delivered
+10987,287,2026-09-23,Clothing,7192,Card,Delivered
+10086,67,2026-09-23,Clothing,7793,Easypaisa,Returned
+10045,58,2026-09-23,Groceries,1083,Easypaisa,Delivered
+11812,239,2026-09-23,Electronics,18718,Cash on Delivery,Delivered
+11735,52,2026-09-23,Books,1210,Card,Delivered
+11816,223,2026-09-24,Electronics,30577,Card,Delivered
+11997,226,2026-09-24,Groceries,3944,JazzCash,Delivered
+10843,265,2026-09-24,Groceries,737,Cash on Delivery,Delivered
+10914,29,2026-09-24,Books,1265,Cash on Delivery,Delivered
+10907,220,2026-09-25,Electronics,76415,JazzCash,Delivered
+11189,17,2026-09-25,Electronics,31637,Card,Delivered
+10009,168,2026-09-25,Groceries,3845,JazzCash,Delivered
+10142,79,2026-09-25,Groceries,1749,JazzCash,Cancelled
+11089,191,2026-09-25,Groceries,1193,JazzCash,Delivered
+11959,18,2026-09-26,Home,29233,Cash on Delivery,Returned
+10326,285,2026-09-26,Electronics,42245,Cash on Delivery,Delivered
+10494,23,2026-09-27,Books,1269,Card,Delivered
+11776,97,2026-09-27,Groceries,3861,Cash on Delivery,Delivered
+10268,244,2026-09-28,Groceries,2616,Easypaisa,Cancelled
+11013,5,2026-09-28,Electronics,72812,Cash on Delivery,Returned
+10036,11,2026-09-28,Clothing,3248,JazzCash,Delivered
+11652,10,2026-09-29,Groceries,3424,Cash on Delivery,Returned
+10367,60,2026-09-29,Groceries,3660,Card,Returned
+10620,171,2026-09-30,Groceries,2747,Easypaisa,Delivered
+10556,28,2026-09-30,Groceries,1517,Easypaisa,Returned
+10487,293,2026-10-01,Books,815,JazzCash,Delivered
+10394,135,2026-10-01,Clothing,7939,Easypaisa,Delivered
+11380,123,2026-10-01,Groceries,891,Cash on Delivery,Delivered
+10063,86,2026-10-01,Electronics,83846,Cash on Delivery,Delivered
+11637,86,2026-10-01,Books,986,Cash on Delivery,Delivered
+10397,226,2026-10-01,Groceries,1396,JazzCash,Delivered

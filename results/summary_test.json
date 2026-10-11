@@ -1,0 +1,102 @@
+{
+  "summary": {
+    "baseline": {
+      "n": 150,
+      "ex": 0.6066666666666667,
+      "ex_simple": 0.6956521739130435,
+      "ex_moderate": 0.5945945945945946,
+      "ex_challenging": 0.5,
+      "exec_error_rate": 0.02,
+      "avg_llm_calls": 1.0,
+      "fix_rate": 0.0,
+      "avg_seconds": 1.1685333333333334,
+      "answered_by": {
+        "gemini-3.5-flash-lite": 150
+      }
+    },
+    "linked": {
+      "n": 150,
+      "ex": 0.6466666666666666,
+      "ex_simple": 0.7391304347826086,
+      "ex_moderate": 0.6756756756756757,
+      "ex_challenging": 0.43333333333333335,
+      "exec_error_rate": 0.02666666666666667,
+      "avg_llm_calls": 1.0,
+      "fix_rate": 0.0,
+      "avg_seconds": 1.3216666666666668,
+      "answered_by": {
+        "gemini-3.5-flash-lite": 150
+      }
+    },
+    "linked+fix": {
+      "n": 150,
+      "ex": 0.6666666666666666,
+      "ex_simple": 0.7391304347826086,
+      "ex_moderate": 0.7162162162162162,
+      "ex_challenging": 0.43333333333333335,
+      "exec_error_rate": 0.006666666666666667,
+      "avg_llm_calls": 1.0666666666666667,
+      "fix_rate": 0.05333333333333334,
+      "avg_seconds": null,
+      "answered_by": {
+        "gemini-3.5-flash-lite": 10
+      }
+    },
+    "agent": {
+      "n": 150,
+      "ex": 0.6666666666666666,
+      "ex_simple": 0.7391304347826086,
+      "ex_moderate": 0.7162162162162162,
+      "ex_challenging": 0.43333333333333335,
+      "exec_error_rate": 0.006666666666666667,
+      "avg_llm_calls": 1.0866666666666667,
+      "fix_rate": 0.06,
+      "avg_seconds": null,
+      "answered_by": {
+        "gemini-3.5-flash-lite": 5
+      }
+    }
+  },
+  "steps": [
+    {
+      "from": "baseline",
+      "to": "linked",
+      "delta": 0.04,
+      "lo": -0.006666666666666667,
+      "hi": 0.08666666666666667,
+      "won": 9,
+      "lost": 3,
+      "n": 150
+    },
+    {
+      "from": "linked",
+      "to": "linked+fix",
+      "delta": 0.02,
+      "lo": 0.0,
+      "hi": 0.04666666666666667,
+      "won": 3,
+      "lost": 0,
+      "n": 150
+    },
+    {
+      "from": "linked+fix",
+      "to": "agent",
+      "delta": 0.0,
+      "lo": 0.0,
+      "hi": 0.0,
+      "won": 0,
+      "lost": 0,
+      "n": 150
+    },
+    {
+      "from": "baseline",
+      "to": "agent",
+      "delta": 0.06,
+      "lo": 0.013333333333333334,
+      "hi": 0.11333333333333333,
+      "won": 12,
+      "lost": 3,
+      "n": 150
+    }
+  ]
+}

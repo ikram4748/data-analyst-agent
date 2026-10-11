@@ -1,0 +1,15 @@
+.env
+.venv/
+__pycache__/
+*.pyc
+.cache/
+data/raw/
+data/bird/
+*.duckdb
+*.duckdb.wal
+.DS_Store
+results/api_errors.log
+
+# personal notes, kept local
+INTERVIEW_QA.md
+VOICEOVER_SCRIPT.md

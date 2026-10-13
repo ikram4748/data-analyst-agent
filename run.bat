@@ -2,6 +2,11 @@
 rem Windows launcher. Double-click this file.
 setlocal
 cd /d "%~dp0"
+call :clean_path
+
+rem Optional port, e.g. "run.bat 8502", so several apps can run at once.
+set "PORT=%~1"
+if not defined PORT set "PORT=8501"
 
 set "PY="
 where py >nul 2>nul && (py -3.12 -c "" >nul 2>nul && set "PY=py -3.12")
@@ -31,5 +36,14 @@ if not exist "data\bird\mini_dev_sqlite.json" (
   ".venv\Scripts\python.exe" scripts\setup_data.py || (pause & exit /b 1)
 )
 
-echo Starting the app at http://localhost:8501  ^(close this window to stop it^)
-".venv\Scripts\python.exe" -m streamlit run app.py
+echo Starting the app at http://localhost:%PORT%  ^(close this window to stop it^)
+".venv\Scripts\python.exe" -m streamlit run app.py --server.port %PORT%
+exit /b
+
+:clean_path
+rem Drop PATH folders that cannot be reached (for example a BitLocker-locked drive); pip fails on them.
+setlocal EnableDelayedExpansion
+set "CLEAN="
+for %%p in ("%PATH:;=" "%") do if not "%%~p"=="" if exist "%%~p\" set "CLEAN=!CLEAN!;%%~p"
+endlocal & set "PATH=%CLEAN:~1%"
+exit /b

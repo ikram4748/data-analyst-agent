@@ -2,6 +2,7 @@
 # macOS / Linux launcher. Double-click in Finder, or run ./run.command in a terminal.
 set -e
 cd "$(dirname "$0")"
+PORT="${1:-8501}"   # optional port, e.g. ./run.command 8502
 
 PY=""
 for p in python3.12 python3.11; do command -v "$p" >/dev/null 2>&1 && { PY="$p"; break; }; done
@@ -26,5 +27,5 @@ if [ ! -f data/bird/mini_dev_sqlite.json ]; then
   .venv/bin/python scripts/setup_data.py
 fi
 
-echo "Starting the app at http://localhost:8501  (close this window to stop it)"
-.venv/bin/python -m streamlit run app.py --server.headless false
+echo "Starting the app at http://localhost:$PORT  (close this window to stop it)"
+.venv/bin/python -m streamlit run app.py --server.port "$PORT" --server.headless false
